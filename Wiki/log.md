@@ -5,5 +5,10 @@
 - 操作：读取 Gist 内容，存入 Raw_Sources，更新 Wiki
 - 备注：发现 Karpathy 的方法论与本知识库架构高度一致
 
+## [2026-05-12] enhancement | 知识库增强
+- 新增：Lint 规则、问答沉淀规则
+- 新增：图片存入 assets/，Git 版本控制初始化
+- 新增：Wiki/index.md 目录页面
+
 ---
 *最后更新：2026-05-12*
