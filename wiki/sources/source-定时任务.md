@@ -1,0 +1,87 @@
+---
+title: "定时任务"
+type: source
+tags: [脚本, 自动化, 系统]
+sources: []
+last_updated: 2026-05-14
+---
+
+# 定时任务
+
+## 新闻推送脚本
+
+### 脚本信息
+- **脚本路径**：`/root/.openclaw/scripts/news-loop.sh`
+- **进程PID**：45085
+- **运行状态**：✅ 运行中
+- **日志路径**：`/root/.openclaw/logs/news-loop.log`
+
+### 功能
+- 每天 15:00 自动推送国际新闻（中文）
+- 时间范围：前一天15:00 ~ 当天15:00
+- 来源：Hacker News（可访问的中文新闻）
+- 内容：国际热点 + 游戏圈简报
+
+### 管理命令
+```bash
+# 查看状态
+ps aux | grep news-loop | grep -v grep
+
+# 查看日志
+cat /root/.openclaw/logs/news-loop.log
+
+# 停止脚本
+kill $(ps aux | grep news-loop | grep -v grep | awk '{print $2}')
+
+# 重启脚本
+nohup bash /root/.openclaw/scripts/news-loop.sh > /dev/null 2>&1 &
+```
+
+---
+
+## 房产价格提醒脚本
+
+### 脚本信息
+- **脚本路径**：`/root/.openclaw/scripts/housing-reminder.sh`
+- **进程PID**：55990
+- **运行状态**：✅ 运行中
+- **日志路径**：`/root/.openclaw/logs/housing-reminder.log`
+
+### 功能
+- 每月1日和15日 09:00 提醒用户更新房价
+- 追踪板块：上海塘桥、北蔡、花木
+
+### 管理命令
+```bash
+# 查看状态
+ps aux | grep housing-reminder | grep -v grep
+
+# 停止脚本
+kill $(ps aux | grep housing-reminder | grep -v grep | awk '{print $2}')
+```
+
+---
+
+## Wiki 整理提醒脚本
+
+### 脚本信息
+- **脚本路径**：`/root/.openclaw/scripts/wiki-cleanup.sh`
+- **进程PID**：64034
+- **运行状态**：✅ 运行中
+- **日志路径**：`/root/.openclaw/logs/wiki-cleanup.log`
+
+### 功能
+- 每月1日 10:00 提醒用户整理 Wiki
+- 检查内容：Raw Sources / Wiki 条目 / Schema / 素材
+
+### 管理命令
+```bash
+# 查看状态
+ps aux | grep wiki-cleanup | grep -v grep
+
+# 停止脚本
+kill $(ps aux | grep wiki-cleanup | grep -v grep | awk '{print $2}')
+```
+
+---
+*更新时间：2026-05-14*

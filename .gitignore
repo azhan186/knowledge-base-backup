@@ -1,0 +1,19 @@
+# 知识库运行时文件 - 不入库
+.raw_sources_snapshot*
+.last-processed
+.deep-check-checkpoint.json
+.compiled_files.list
+
+# Python 编译缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~

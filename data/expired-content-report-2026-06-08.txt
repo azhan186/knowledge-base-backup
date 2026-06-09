@@ -1,0 +1,44 @@
+=== 过期内容检测报告 - 2026-06-08 ===
+判定规则：freshness=high > 3天, medium > 14天, low > 60天
+全局警告阈值：14 天
+
+扫描页面数：353
+  已过期：0
+  缺 data_date：353
+  新鲜：0
+
+============================================================
+[2] 缺 data_date 字段（353 个）
+============================================================
+新闻/投资类页面应有 data_date 字段（内容日期）以便检测过期。
+  - 图书馆/Wiki/syntheses/七遗物共鸣机制.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/2026-06-05_ai-hallucination-series.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/synthesis-2026年6月新闻汇总.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/零一Boss设定方法论.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/2026-06-05_stock-knowledge-framework.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/维度黎明San值体系.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/2026-06-05_stock-learning-series.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/知识库规范.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/2026-06-05_anti-hallucination-protocol.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/维度黎明钩子设计.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/融合者能力体系.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/知识库导航.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/宇宙星体分类总览.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/synthesis-2026年5月新闻汇总.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/骨折血栓肺栓塞死亡链.md（freshness: medium）
+  - 图书馆/Wiki/syntheses/零血统能力详细设定.md（freshness: medium）
+  - 图书馆/Wiki/entities/维度黎明.md（freshness: medium）
+  - 图书馆/Wiki/entities/中芯国际.md（freshness: medium）
+  - 图书馆/Wiki/entities/房产价格追踪.md（freshness: medium）
+  - 图书馆/Wiki/entities/五星级酒店组织架构.md（freshness: medium）
+  - 图书馆/Wiki/entities/上海微电子.md（freshness: medium）
+  - 图书馆/Wiki/entities/上海购房政策.md（freshness: medium）
+  - 图书馆/Wiki/entities/ASML.md（freshness: medium）
+  - 图书馆/Wiki/entities/绿联DXP4800Plus.md（freshness: medium）
+  - 图书馆/Wiki/客房部/房间清洁与铺床.md（freshness: medium）
+  - 图书馆/Wiki/客房部/健身中心SOP.md（freshness: medium）
+  - 图书馆/Wiki/客房部/洗衣SOP.md（freshness: medium）
+  - 图书馆/Wiki/客房部/楼层SOP.md（freshness: medium）
+  - 图书馆/Wiki/客房部/公共区域SOP.md（freshness: medium）
+  - 图书馆/Wiki/sources/source-floor-025-上午下午差异房报告.md（freshness: medium）
+  ... 还有 323 个

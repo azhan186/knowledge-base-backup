@@ -1,0 +1,133 @@
+=== Wiki 矛盾检测报告 - 2026-06-08 14:47 ===
+扫描范围：/home/azhan186/open claw/知识库/wiki / /home/azhan186/open claw/知识库/图书馆/Wiki / /home/azhan186/open claw/知识库/新闻/Wiki
+
+扫描页面数：353
+涉及 source 数：274
+
+============================================================
+[1] 缺 last_conflict_check 的页面：353 个
+============================================================
+  - wiki/syntheses/七遗物共鸣机制.md
+  - wiki/syntheses/2026-06-05_ai-hallucination-series.md
+  - wiki/syntheses/synthesis-2026年6月新闻汇总.md
+  - wiki/syntheses/零一Boss设定方法论.md
+  - wiki/syntheses/2026-06-05_stock-knowledge-framework.md
+  - wiki/syntheses/维度黎明San值体系.md
+  - wiki/syntheses/2026-06-05_stock-learning-series.md
+  - wiki/syntheses/知识库规范.md
+  - wiki/syntheses/2026-06-05_anti-hallucination-protocol.md
+  - wiki/syntheses/维度黎明钩子设计.md
+  - wiki/syntheses/融合者能力体系.md
+  - wiki/syntheses/知识库导航.md
+  - wiki/syntheses/宇宙星体分类总览.md
+  - wiki/syntheses/synthesis-2026年5月新闻汇总.md
+  - wiki/syntheses/骨折血栓肺栓塞死亡链.md
+  - wiki/syntheses/零血统能力详细设定.md
+  - wiki/entities/维度黎明.md
+  - wiki/entities/中芯国际.md
+  - wiki/entities/房产价格追踪.md
+  - wiki/entities/五星级酒店组织架构.md
+  ... 还有 333 个
+
+============================================================
+[2] 引用了不存在的 source：25 处
+============================================================
+  - wiki/sources/source-接触传染率与行为心理学.md 引用了: Raw Sources/技术参考/接触传染率与行为心理学.md
+  - wiki/sources/source-过敏反应机制与应急处理.md 引用了: Raw Sources/技术参考/过敏反应机制与应急处理.md
+  - wiki/sources/source-国际油价大涨背后原因.md 引用了: 新闻/Raw Sources/2026/国际/2026-06-05_国际油价大涨背后原因-source.md
+  - wiki/sources/source-黄金登顶储备资产榜首背后3个真相.md 引用了: ../../Raw Sources/2026/财经/2026-06-05_黄金登顶储备资产榜首背后3个真相-source.md
+  - wiki/sources/source-国家最高领导人勉励红领巾讲解员.md 引用了: ../../Raw Sources/2026/时政/2026-06-01_国家最高领导人勉励红领巾讲解员.md
+  - wiki/sources/source-碳纤维T1000量产.md 引用了: ../../Raw Sources/2026/科技/2026-06-05_碳纤维T1000量产-source.md
+  - wiki/sources/source-十五五规划.md 引用了: Raw Sources/投资参考/十五五规划板块分析
+  - wiki/sources/source-海风之心落户广东.md 引用了: ../../Raw Sources/2026/科技/2026-06-05_海风之心落户广东-source.md
+  - wiki/sources/source-纳微半导体与英伟达合作股价暴涨.md 引用了: ../../Raw Sources/2026/财经/2026-06-05_纳微半导体与英伟达合作股价暴涨-source.md
+  - wiki/sources/source-中方禁止新西兰议员入境.md 引用了: 新闻/Raw Sources/2026/时政/2026-06-05_中方禁止新西兰议员入境-source.md
+  - wiki/sources/source-6月4日A股震荡调整.md 引用了: ../../Raw Sources/2026/财经/2026-06-05_6月4日A股震荡调整-财经新闻-source.md
+  - wiki/sources/source-国内油价下调.md 引用了: ../../Raw Sources/2026/财经/2026-06-05_国内油价下调-source.md
+  - wiki/sources/2026-06-05_ai-hallucination-intro.md 引用了: ../Raw Sources/AI与科技/2026-06-05_AI幻觉.md
+  - wiki/sources/source-复利原理与人生哲学.md 引用了: Raw Sources/投资参考/复利原理与人生哲学.md
+  - wiki/sources/source-新闻来了2026-06-04.md 引用了: 新闻/Raw Sources/2026/时政/2026-06-05_新闻来了2026-06-04-source.md
+  - wiki/sources/source-mri磁共振成像原理详解.md 引用了: Raw Sources/技术参考/MRI磁共振成像原理详解.md
+  - wiki/concepts/骨胶原.md 引用了: source-骨胶原判断好用标准
+  - wiki/concepts/骨胶原.md 引用了: source-骨胶原老年人好用判断
+  - wiki/concepts/磁共振成像技术.md 引用了: Raw Sources/技术参考/MRI磁共振成像原理详解.md
+  - wiki/concepts/磁共振成像技术.md 引用了: Wiki/sources/mri磁共振成像原理详解.md
+  ... 还有 5 处
+
+============================================================
+[3] source 被多页面引用（潜在的同源对比候选）：44 个
+============================================================
+  - 知识库/Raw Sources/2026/2026-05-25_零和博弈.md（被 12 个页面引用）
+      · wiki/sources/source-正和博弈.md
+      · wiki/sources/source-零和博弈.md
+      · wiki/concepts/进攻性现实主义.md
+      · wiki/concepts/荣格八维.md
+      · wiki/concepts/纳什均衡.md
+      · ... 还有 7 个
+  - 维度黎明.md（被 4 个页面引用）
+      · wiki/syntheses/零一Boss设定方法论.md
+      · wiki/syntheses/维度黎明San值体系.md
+      · wiki/syntheses/维度黎明钩子设计.md
+      · wiki/syntheses/融合者能力体系.md
+  - Raw Sources/2026/2026-05-24_西方题材短故事小课堂1期：海外特色文化介绍.md（被 3 个页面引用）
+      · wiki/sources/source-西方题材短故事小课堂1期.md
+      · wiki/concepts/狼人文化.md
+      · wiki/concepts/吸血鬼文化.md
+  - Raw Sources/2026/2026-05-24_脑机接口全面解析.md（被 2 个页面引用）
+      · wiki/sources/source-脑机接口全面解析.md
+      · wiki/concepts/脑机接口.md
+  - Raw Sources/投资与规划/2026-06-05_明斯基时刻.md（被 2 个页面引用）
+      · wiki/sources/source-2026-06-05_明斯基时刻.md
+      · wiki/concepts/明斯基时刻.md
+  - Raw Sources/投资与规划/2026-06-05_灰犀牛事件.md（被 2 个页面引用）
+      · wiki/sources/source-2026-06-05_灰犀牛事件.md
+      · wiki/concepts/灰犀牛事件.md
+  - Raw Sources/技术参考/过敏反应机制与应急处理.md（被 2 个页面引用）
+      · wiki/sources/source-过敏反应机制与应急处理.md
+      · wiki/concepts/过敏反应机制.md
+  - Raw Sources/2026/2026-05-24_肺血栓全面解析.md（被 2 个页面引用）
+      · wiki/sources/source-肺血栓全面解析.md
+      · wiki/concepts/肺血栓栓塞症.md
+  - Raw Sources/投资与规划/2026-06-05_股票专家篇.md（被 2 个页面引用）
+      · wiki/sources/source-2026-06-05_股票专家篇.md
+      · wiki/concepts/股票基础.md
+  - Raw Sources/技术参考/2026-05-23_X光机原理与临床应用.md（被 2 个页面引用）
+      · wiki/sources/source-X光机原理与临床应用.md
+      · wiki/concepts/X射线医学影像体系.md
+  - Raw Sources/投资与规划/2026-06-05_股票基础入门.md（被 2 个页面引用）
+      · wiki/sources/source-2026-06-05_股票基础入门.md
+      · wiki/concepts/股票基础.md
+  - Raw Sources/投资与规划/2026-06-05_乌合之众股市分析.md（被 2 个页面引用）
+      · wiki/sources/source-2026-06-05_乌合之众股市分析.md
+      · wiki/concepts/群体心理.md
+  - Raw Sources/技术参考/2026-05-23_DNA全面解析.md（被 2 个页面引用）
+      · wiki/sources/source-DNA全面解析.md
+      · wiki/concepts/遗传信息流动.md
+  - Raw Sources/2026/2026-05-24_人工智能全面解析.md（被 2 个页面引用）
+      · wiki/sources/source-人工智能全面解析.md
+      · wiki/concepts/人工智能.md
+  - Raw Sources/投资与规划/2026-06-05_泡沫经济.md（被 2 个页面引用）
+      · wiki/sources/source-2026-06-05_泡沫经济.md
+      · wiki/concepts/泡沫经济.md
+  - Raw Sources/投资与规划/2026-06-05_叙事经济学深入篇.md（被 2 个页面引用）
+      · wiki/sources/source-2026-06-05_叙事经济学深入篇.md
+      · wiki/concepts/叙事经济学.md
+  - ../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/Floor/Floor_017_虫害臭虫的处理– 艺康.docx（被 2 个页面引用）
+      · wiki/sources/source-floor-017-虫害臭虫的处理–-艺康.md
+      · wiki/concepts/客房安全应急.md
+  - ../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/Floor/Floor_004_失物招领.docx（被 2 个页面引用）
+      · wiki/sources/source-floor-004-失物招领.md
+      · wiki/concepts/失物招领流程.md
+  - Raw Sources/投资与规划/2026-06-05_反身性.md（被 2 个页面引用）
+      · wiki/sources/source-2026-06-05_反身性.md
+      · wiki/concepts/反身性.md
+  - Raw Sources/2026/2026-05-24_AI如何建造与未来发展.md（被 2 个页面引用）
+      · wiki/sources/source-AI如何建造与未来发展.md
+      · wiki/concepts/如何建造AI.md
+
+============================================================
+[4] 说明
+============================================================
+本报告只做结构化字段对比，不做语义理解。
+软矛盾（如同一概念不同解释、流派差异）需要主人/主代理人工审视。
+D 方案详见 _templates/README.md
