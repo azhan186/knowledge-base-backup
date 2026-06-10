@@ -50,6 +50,17 @@ last_updated: 2026-06-10
 - [[2026-06-10_rfid-deep]] — 射频识别技术深入篇（物理层/协议/安全）
 - [[2026-06-10_rfid-advanced]] — 射频识别技术资深篇（设计权衡与系统极限）
 - [[2026-06-10_rfid-expert]] — 射频识别技术专家篇（信息物理系统的元命题）
+- [[2026-06-10_storage-intro]] — 信息存储入门篇（编码/载体/存取）
+- [[2026-06-10_storage-deep]] — 信息存储深入篇（比特物理化/HDD vs SSD/DNA）
+- [[2026-06-10_storage-advanced]] — 信息存储资深篇（信息熵/兰道尔/下一代存储）
+- [[2026-06-10_storage-expert]] — 信息存储专家篇（负熵/可逆计算/OAIS/量子存储）
+- [[2026-06-10_ai-recognize-contradiction]] — 如何让 AI 认知信息矛盾（专题）
+- [[2026-06-10_raid-intro]] — RAID 阵列入门篇（综述）
+- [[2026-06-10_raid-deep]] — RAID 阵列深入篇（XOR/写惩罚/Write Hole/URE）
+- [[2026-06-10_raid-advanced]] — RAID 阵列资深篇（RS 码/ZFS/RAID10 vs 01）
+- [[2026-06-10_raid-expert]] — RAID 阵列专家篇（纠删码/MTTDL/现代存储栈）
+- [[2026-06-10_raid-cheatsheet]] — RAID 0/1/5/6/10 区别（速查表）
+- [[2026-06-10_raid-table-pure]] — RAID 级别纯表格速查
 
 ### 投资与规划
 
@@ -104,6 +115,35 @@ last_updated: 2026-06-10
 ### 时政
 
 - [[source-2026-06-08-three-gorges-waterway|三峡水运新通道工程正式开工]] — "十五五"首个国家重大标志性工程 / 投资 772 亿 / 万吨级双向通航
+- [[source-2026-06-08-kim-jong-un-welcome|中国领导人出席金正恩欢迎仪式]] — 6-8 中朝国事访问
+- [[source-2026-06-08-china-leader-leaves-beijing|中国领导人离京访朝]] — 6-8 离京
+- [[source-2026-06-08-china-dprk-signed-article|中朝签署署名文章]] — 6-8 两国署名文章
+- [[source-2026-06-08-urban-renewal-plan|城市更新十五五规划]] — 6-8 住建部等四部门
+- [[source-2026-06-08-drone-major|无人机专业被预定]] — 6-8 职业教育新风向
+
+### 国际
+
+- [[source-2026-06-08-iran-missile-israel|伊朗导弹袭击以色列]] — 6-8 中东冲突升级导火索
+
+### 财经
+
+- [[source-2026-06-08-oil-price-us-stocks|国际油价上涨美股下跌]] — 6-8 中东推动
+- [[source-2026-06-08-energy-crisis-warning|国际组织警告能源危机]] — 6-8 能源
+- [[source-2026-06-08-opec-july-increase|欧佩克 7 月增产]] — 6-8 原油增产
+- [[source-2026-06-08-marine-economy-11t|海洋经济 11 万亿]] — 6-8 世界海洋日
+- [[source-2026-06-08-glass-cloth-price|电子布涨价]] — 6-8 年内 5 轮提价涨幅 100%
+- [[source-2026-06-08-gold-below-4300|黄金跌破 4300 美元]] — 6-8 黄金下挫
+- [[source-2026-06-08-flying-car|飞行汽车产业进入商业化探索期]] — 6-8 10 万亿级市场
+- [[source-2026-06-10-7t-comm-network|7万亿元大市场！新一代通信网]] — 6-10 六张网深度报道
+- [[source-2026-06-10-china-tourism-overtake-us|中国旅游超越美国成全球最大旅游经济体]] — 6-10 WTTC 报告
+- [[source-2026-06-10-institutions-bullish-china-tech|国际机构看多中国科技资产]] — 6-10 普华永道/穆迪/惠誉/高盛等
+
+### 投资与规划
+
+- [[2026-06-08_low-altitude-economy-intro]] — 低空经济入门篇
+- [[2026-06-08_low-altitude-economy-deep]] — 低空经济深入篇（技术架构）
+- [[2026-06-08_low-altitude-economy-advanced]] — 低空经济资深篇（UAM 操作系统）
+- [[2026-06-08_low-altitude-economy-expert]] — 低空经济专家篇（物理极限+系统学）
 
 ### AI与科技
 
@@ -162,6 +202,23 @@ last_updated: 2026-06-10
 ### 科技
 
 - [[source-turing-thesis]] — 图灵论题（Church-Turing Thesis，四层综合）
+- [[2026-06-07_turing-thesis-intro]] — 图灵论题入门篇（可计算性边界）
+- [[2026-06-07_turing-thesis-deep]] — 图灵论题深入篇（通用图灵机+停机问题）
+- [[2026-06-07_turing-thesis-advanced]] — 图灵论题资深篇（P vs NP+复杂性类）
+- [[2026-06-07_turing-thesis-expert]] — 图灵论题专家篇（量子图灵+超计算+哥德尔）
+- [[2026-06-07_quantum-computer-intro]] — 量子计算机入门篇（qubit/叠加/纠缠/干涉）
+- [[2026-06-07_quantum-computer-deep]] — 量子计算机深入篇（Shor/Grover/量子门）
+- [[2026-06-07_quantum-computer-advanced]] — 量子计算机资深篇（容错/表面码/技术路线）
+- [[2026-06-07_quantum-computer-expert]] — 量子计算机专家篇（NISQ/量子霸权/后量子密码学）
+
+### 财经
+
+- [[source-2026-06-07-hydrogen-coal-mix]] — 氢煤混烧技术重大突破
+
+### 时政
+
+- [[source-2026-06-07-us-israel-iran-100d]] — 美以伊战争第 100 天
+- [[source-2026-06-07-news-daily]] — 新闻日报 2026-06-07
 
 ### 投资与规划
 
