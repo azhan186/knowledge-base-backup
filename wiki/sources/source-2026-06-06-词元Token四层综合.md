@@ -197,7 +197,7 @@ last_updated:2026-06-08
 
 - [[source-2026-06-06-词元化与AI幻觉]] —词元化如何制造 AI幻觉
 - [[AI与人脑处理速度对比]]（待创建）— token速率与人类阅读
-- [[AI-Agent]] — token 是 Agent 的输入输出单元
+- [[AI助手]] — token 是 Agent 的输入输出单元
 
 ---
 
