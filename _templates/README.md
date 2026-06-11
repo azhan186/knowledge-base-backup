@@ -4,10 +4,10 @@
 
 | 类型 | 用途 | 目录 | frontmatter 必备 |
 |------|------|------|------------------|
-| source | 单个原始资料的提炼 | `图书馆/Wiki/sources/` 或 `新闻/Wiki/sources/` | `sources` |
-| concept | 概念/方法论/思想 | `图书馆/Wiki/concepts/` | `sources`, `claims` |
-| entity | 实体（人物/工具/产品）| `图书馆/Wiki/entities/` | `sources`, `claims` |
-| synthesis | 综合多源的笔记 | `图书馆/Wiki/syntheses/` | `sources`, `claims` |
+| source | 单个原始资料的提炼 | `wiki/sources/` 或 `wiki/sources/` | `sources` |
+| concept | 概念/方法论/思想 | `wiki/concepts/` | `sources`, `claims` |
+| entity | 实体（人物/工具/产品）| `wiki/entities/` | `sources`, `claims` |
+| synthesis | 综合多源的笔记 | `wiki/syntheses/` | `sources`, `claims` |
 
 ## 模板
 
