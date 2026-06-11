@@ -62,8 +62,8 @@ For items not able to offer, office clerk should inform the AYS for further acti
 
 ## 关联概念
 
-- [[万豪侯爵楼层SOP体系]]
-- [[万豪侯爵客房部组织架构]]
+- [[楼层SOP|万豪侯爵楼层SOP体系]]
+- [[万豪侯爵酒店客房部组织架构|万豪侯爵客房部组织架构]]
 
 ## 备注
 

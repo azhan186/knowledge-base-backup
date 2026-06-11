@@ -46,7 +46,7 @@ SUBJECT 题目: Swimming Pool Opening Procedure
 
 ## 关联概念
 
-- [[万豪侯爵健身中心SOP体系]]
+- [[健身中心SOP|万豪侯爵健身中心SOP体系]]
 
 ## 备注
 

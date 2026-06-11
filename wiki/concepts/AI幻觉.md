@@ -33,7 +33,7 @@ last_updated: 2026-06-10
 
 ## 关键文献
 
-- [[2026-06-05_ai-hallucination-intro]] — 入门篇
-- [[2026-06-05_ai-hallucination-deep]] — 深入篇（概率暴政）
-- [[2026-06-05_ai-hallucination-advanced]] — 资深篇（RAG/RLHF）
-- [[2026-06-05_ai-hallucination-expert]] — 专家篇（哲学反思）
+- [[source-2026-06-05-AI幻觉入门篇]] — 入门篇
+- [[source-2026-06-05-AI幻觉深入篇]] — 深入篇（概率暴政）
+- [[source-2026-06-05-AI幻觉资深篇_工程化解法]] — 资深篇（RAG/RLHF）
+- [[source-2026-06-05-AI幻觉专家篇]] — 专家篇（哲学反思）

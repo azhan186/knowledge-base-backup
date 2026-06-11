@@ -49,7 +49,7 @@ GPT-3 (2K) → GPT-4 (32K) → Claude (200K) → Gemini 1.5 (1M)
 
 ## 文献摘要
 
-- [[2026-06-06_token-intro]] — 入门篇
-- [[2026-06-06_token-deep]] — 深入篇
-- [[2026-06-06_token-advanced]] — 资深篇
-- [[2026-06-06_token-expert]] — 专家篇
+- [[source-2026-06-06-词元Token入门篇]] — 入门篇
+- [[source-2026-06-06-词元Token深入篇]] — 深入篇
+- [[source-2026-06-06-词元Token资深篇]] — 资深篇
+- [[source-2026-06-06-词元Token专家篇]] — 专家篇

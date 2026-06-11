@@ -55,8 +55,8 @@ When using a ladder, safety- precautions must be followed. i.e. assistance to ho
 
 ## 关联概念
 
-- [[万豪侯爵公共区域SOP体系]]
-- [[万豪侯爵客房部组织架构]]
+- [[公共区域SOP|万豪侯爵公共区域SOP体系]]
+- [[万豪侯爵酒店客房部组织架构|万豪侯爵客房部组织架构]]
 
 ## 备注
 

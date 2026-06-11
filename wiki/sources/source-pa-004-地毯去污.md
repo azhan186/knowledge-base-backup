@@ -78,8 +78,8 @@ Adjust the quantity of foam according to the situation.
 
 ## 关联概念
 
-- [[万豪侯爵公共区域SOP体系]]
-- [[万豪侯爵客房部组织架构]]
+- [[公共区域SOP|万豪侯爵公共区域SOP体系]]
+- [[万豪侯爵酒店客房部组织架构|万豪侯爵客房部组织架构]]
 
 ## 备注
 

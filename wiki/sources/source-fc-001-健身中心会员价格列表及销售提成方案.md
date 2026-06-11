@@ -83,7 +83,7 @@ JW Marquis Membership Price List | JW Marquis Membership Price List | JW Marquis
 
 ## 关联概念
 
-- [[万豪侯爵健身中心SOP体系]]
+- [[健身中心SOP|万豪侯爵健身中心SOP体系]]
 
 ## 备注
 

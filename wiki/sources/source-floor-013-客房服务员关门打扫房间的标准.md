@@ -62,8 +62,8 @@ Housekeeping Cleaning Standard For Closed Door Cleaning
 
 ## 关联概念
 
-- [[万豪侯爵楼层SOP体系]]
-- [[万豪侯爵客房部组织架构]]
+- [[楼层SOP|万豪侯爵楼层SOP体系]]
+- [[万豪侯爵酒店客房部组织架构|万豪侯爵客房部组织架构]]
 
 ## 备注
 
