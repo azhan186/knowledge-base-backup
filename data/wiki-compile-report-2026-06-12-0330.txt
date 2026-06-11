@@ -1,0 +1,28 @@
+=== Wiki 凌晨编译任务报告 ===
+时间：2026-06-12 03:30 (Asia/Shanghai)
+状态：no_pending（无新增文件）
+
+【背景】
+- 00:30 cron 跑了 wiki-auto-update.sh，扫描 Raw Sources 快照 454 → 454
+- 因无新增文件，wiki-auto-update 未生成 wiki-new-files-*.txt 报告
+- 03:30 cron 跑 wiki-compile-prompt.sh，找不到报告 → exit 1
+- 主代理（晨光）手动确认状态：确实无新增
+
+【数据】
+- 待编译文件：0 个
+- 跳过文件：0 个
+- 失败文件：0 个
+- 已 mark-compiled 文件总数：350 个（.compiled_files.list）
+- Raw Sources 总数：454 个（与快照一致）
+
+【结论】
+凌晨编译任务无事可做，无需处理。
+下次编译机会：2026-06-12 12:30（如果届时有新文件）
+
+【状态文件】
+/home/azhan186/open claw/知识库/data/wiki-compile-status-2026-06-12-0330.json
+
+【备注】
+脚本建议改进：wiki-auto-update.sh 在"无新增"时也应生成空报告，
+让 wiki-compile-prompt.sh 能正常输出 no_pending 状态，无需主代理手动兜底。
+主人白天可以考虑这个改进。
