@@ -3,6 +3,7 @@ title: "公共区域SOP"
 type: concept
 tags: [万豪侯爵, 客房部, 公共区域, PA, SOP]
 last_updated: 2019-01-01
+subject: "870"
 ---
 
 # 公共区域SOP

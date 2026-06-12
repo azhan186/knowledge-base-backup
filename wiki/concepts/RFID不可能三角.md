@@ -1,6 +1,7 @@
 ---
 title: "RFID不可能三角"
 type: concept
+subject: "510 电子与通信"
 tags: [RFID, 不可能三角, 距离, 复杂度, 成本, 设计权衡, 资深篇, 科技]
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术{资深,专家}篇.md]
 last_updated: 2026-06-10

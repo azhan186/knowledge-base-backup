@@ -1,6 +1,7 @@
 ---
 title: "外包员工入职注意事项（ADMIN-001）"
 type: source
+subject: "870 图书情报"
 tags: ["万豪侯爵", "客房部", "行政人事", "SOP", "LSOP-ADMIN-001"]
 sources:
   - "../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/行政人事/外包员工入职注意事项.docx"

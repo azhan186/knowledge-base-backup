@@ -1,6 +1,7 @@
 ---
 title: "健身中心布草控制与管理（FC_005）"
 type: source
+subject: "870 图书情报"
 tags: ["万豪侯爵", "客房部", "健身中心", "SOP", "LSOP-FC_005"]
 sources:
   - "../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/FC/FC_005_健身中心布草控制与管理.docx"

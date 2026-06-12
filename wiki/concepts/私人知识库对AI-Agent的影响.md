@@ -4,6 +4,7 @@ type: concept
 tags: [AI, 知识库, Agent, 向量数据库, 微调, 个性化, 隐私, 偏见]
 sources: [2026-05-27_私人知识库对AI-Agent的影响.md, 2026-05-27_保障基础问题正确判断的方法.md]
 last_updated: 2026-05-27
+subject: "910"
 ---
 
 # 私人知识库对AI-Agent的影响

@@ -4,6 +4,7 @@ type: concept
 tags: [医学影像, X射线, X光, CT, 断层成像, 投影成像, 电离辐射]
 sources: ["Raw Sources/技术参考/2026-05-23_X射线物理本质与产生机制.md", "Raw Sources/技术参考/2026-05-23_X光机原理与临床应用.md"]
 last_updated: 2026-05-23
+subject: "870"
 ---
 
 # X射线医学影像体系

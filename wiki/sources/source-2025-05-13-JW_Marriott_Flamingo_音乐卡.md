@@ -5,6 +5,7 @@ tags: [万豪, JW, Flamingo, 音乐卡, 客用品, 客房]
 sources: [../../图书馆/Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/美工设计稿/2025-05-13_JW_Marriott_Flamingo_音乐卡.pdf]
 last_updated: 2026-06-11
 date: 2025-05-13
+subject: "870"
 ---
 
 # 万豪客用品设计稿：JW Marriott Flamingo 音乐卡

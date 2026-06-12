@@ -1,6 +1,7 @@
 ---
 title: "中国十五五规划专题（综合）"
 type: synthesis
+subject: "810 政治学"
 tags: [十五五规划, 投资主线, 国家战略, 综合专题, 2026-06]
 related_concepts:
  - "../concepts/中国十五五规划"

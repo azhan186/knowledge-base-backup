@@ -1,6 +1,7 @@
 ---
 title: "楼层SOP"
 type: concept
+subject: "870 图书情报"
 tags: [万豪侯爵, 客房部, 楼层, SOP]
 last_updated: 2019-01-01
 ---

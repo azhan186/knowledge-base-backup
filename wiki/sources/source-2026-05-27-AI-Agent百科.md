@@ -5,6 +5,7 @@ tags: [AI, Agent, 大语言模型, 智能体, 强化学习, 自主性]
 sources: [../../图书馆/Raw Sources/AI与科技/AI基础/2026-05-27_AI-Agent百科.md]
 last_updated: 2026-06-11
 date: 2026-05-27
+subject: "140"
 ---
 
 # AI Agent百科：从定义到应用与争议

@@ -1,6 +1,7 @@
 ---
 title: "NFC卡模拟模式"
 type: concept
+subject: "510 电子与通信"
 tags: [NFC, 卡模拟, Card Emulation, 安全元件, 手机变标签, 13.56MHz, 资深篇, 科技]
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术资深篇.md]
 last_updated: 2026-06-10

@@ -5,6 +5,7 @@ tags: [万豪, JW Marriott, Marquis, 上海, 酒店SOP, 资料索引]
 sources: [../../图书馆/Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/2026-05-16_README.md]
 last_updated: 2026-06-11
 date: 2026-05-16
+subject: "870"
 ---
 
 # 万豪侯爵酒店资料 README

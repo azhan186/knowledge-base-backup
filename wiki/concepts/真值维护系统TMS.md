@@ -3,6 +3,7 @@ title: "真值维护系统TMS"
 type: concept
 tags: [真值维护系统, TMS, 信念修正, 数据集成, 信息融合, AI, AI与科技]
 last_updated: 2026-06-10
+subject: "720"
 ---
 
 # 真值维护系统 TMS

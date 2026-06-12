@@ -1,6 +1,7 @@
 ---
 title: "零一 Boss 设定方法论"
 type: source
+subject: "750 文学"
 tags: [零一, Boss, 反派设计, 创作方法论, AI+克苏鲁, 维度黎明]
 sources: [../../图书馆/Raw Sources/创意与叙事/世界观设计/2025-05-17_零一Boss设定方法论.md]
 last_updated: 2026-06-11

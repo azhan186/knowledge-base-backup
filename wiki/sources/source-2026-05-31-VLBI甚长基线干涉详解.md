@@ -5,6 +5,7 @@ tags: [VLBI, 甚长基线干涉, 射电干涉, EHT, 原子钟, 角分辨率]
 sources: [../../图书馆/Raw Sources/技术与工程/VLBI与干涉阵/2026-05-31_VLBI甚长基线干涉详解.md]
 last_updated: 2026-06-11
 date: 2026-05-31
+subject: "160"
 ---
 
 # VLBI 甚长基线干涉详解

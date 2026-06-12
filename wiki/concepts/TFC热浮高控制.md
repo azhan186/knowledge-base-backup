@@ -3,6 +3,7 @@ title: "TFC热浮高控制"
 type: concept
 tags: [TFC, 热浮高, 热衰减, 磁头飞行高度, HDD, 精密控制, 科技, 专家篇]
 last_updated: 2026-06-09
+subject: "510"
 ---
 
 # TFC 热浮高控制

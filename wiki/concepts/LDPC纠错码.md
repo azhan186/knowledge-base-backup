@@ -3,6 +3,7 @@ title: "LDPC纠错码"
 type: concept
 tags: [LDPC, 低密度奇偶校验, 纠错码, 信道编码, SOVA, 迭代解码, 软信息, HDD, 通信理论, 信息论, 科技, 专家篇]
 last_updated: 2026-06-09
+subject: "510"
 ---
 
 # LDPC 纠错码

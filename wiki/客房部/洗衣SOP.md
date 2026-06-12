@@ -3,6 +3,7 @@ title: "洗衣SOP"
 type: concept
 tags: [万豪侯爵, 客房部, 洗衣房, SOP]
 last_updated: 2020-03-16
+subject: "870"
 ---
 
 # 洗衣SOP

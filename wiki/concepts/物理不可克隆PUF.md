@@ -1,6 +1,7 @@
 ---
 title: "物理不可克隆PUF"
 type: concept
+subject: "510 电子与通信"
 tags: [PUF, 物理不可克隆函数, 特征向量, 无芯片RFID, 模式识别, 深度学习, 专家篇, 科技]
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术专家篇.md]
 last_updated: 2026-06-10

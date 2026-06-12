@@ -1,6 +1,7 @@
 ---
 title: "LLM Wiki 方法论"
 type: concept
+subject: "870 图书情报"
 tags: [知识管理, 方法论, Karpathy]
 sources: [Raw Sources/LLM_Wiki_Karpathy.md]
 last_updated: 2026-05-21

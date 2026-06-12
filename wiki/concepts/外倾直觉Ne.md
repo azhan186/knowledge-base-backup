@@ -1,6 +1,7 @@
 ---
 title: "外倾直觉（Ne）"
 type: concept
+subject: "870 图书情报"
 tags: [MBTI, 荣格八维, 直觉]
 sources: [Raw Sources/2026/2026-05-20_外倾直觉Ne深度解析.md]
 last_updated: 2026-05-21

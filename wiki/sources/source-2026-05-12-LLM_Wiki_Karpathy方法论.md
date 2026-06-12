@@ -1,6 +1,7 @@
 ---
 title: "LLM Wiki Karpathy方法论：增量构建持久知识库"
 type: source
+subject: "870 图书情报"
 tags: [LLM, 知识库, Wiki, Karpathy, 三层架构, Ingest, Query, Lint]
 sources: [../../图书馆/Raw Sources/AI与科技/AI基础/2026-05-12_LLM_Wiki_Karpathy.md]
 last_updated: 2026-06-11

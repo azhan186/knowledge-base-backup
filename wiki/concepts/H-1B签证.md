@@ -7,6 +7,7 @@ sources:
 related_sources:
  - "../sources/source-2026-06-09-h1b-visa-ruling"
 last_updated: 2026-06-09
+subject: "810"
 ---
 
 # H-1B 签证

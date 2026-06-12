@@ -1,6 +1,7 @@
 ---
 title: "损坏或遗失客人衣物（LDY_025）"
 type: source
+subject: "870 图书情报"
 tags: ["万豪侯爵", "客房部", "洗衣房", "SOP", "LSOP-LDY_025"]
 sources:
   - "../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/LDY/LDY_025_损坏或遗失客人衣物.docx"

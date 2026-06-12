@@ -1,6 +1,7 @@
 ---
 title: "制服和布草间培训（LDY_024）"
 type: source
+subject: "870 图书情报"
 tags: ["万豪侯爵", "客房部", "洗衣房", "SOP", "LSOP-LDY_024"]
 sources:
   - "../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/LDY/LDY_024_制服和布草间培训.docx"

@@ -1,6 +1,7 @@
 ---
 title: "室内禁止吸烟标准（Floor_008）"
 type: source
+subject: "870 图书情报"
 tags: ["万豪侯爵", "客房部", "楼层", "SOP", "LSOP-Floor_008", "楼层"]
 sources:
   - "../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/Floor/Floor_008_室内禁止吸烟标准.docx"

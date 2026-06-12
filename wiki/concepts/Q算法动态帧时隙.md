@@ -1,6 +1,7 @@
 ---
 title: "Q算法动态帧时隙"
 type: concept
+subject: "510 电子与通信"
 tags: [RFID, Q算法, 动态帧时隙, EPC Gen2, 反馈控制, Aloha, 资深篇, 科技]
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术{深入,资深,专家}篇.md]
 last_updated: 2026-06-10

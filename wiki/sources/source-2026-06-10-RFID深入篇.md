@@ -1,6 +1,7 @@
 ---
 title: "射频识别技术深入篇（物理层/协议/安全）"
 type: source
+subject: "510 电子与通信"
 tags: [RFID, 射频识别, 反向散射, EPC Gen2, Aloha, 物理层, 深入篇, 图书馆/AI与科技]
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术深入篇.md]
 last_updated: 2026-06-10

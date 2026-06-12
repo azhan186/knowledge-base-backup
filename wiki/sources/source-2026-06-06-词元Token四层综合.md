@@ -8,6 +8,7 @@ sources:
  - "Raw Sources/AI与科技/2026-06-06_词元Token资深篇.md"
  - "Raw Sources/AI与科技/2026-06-06_词元Token专家篇.md"
 last_updated:2026-06-08
+subject: "520"
 ---
 
 #词元（Token）

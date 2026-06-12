@@ -4,6 +4,7 @@ type: source
 tags: [DNA, 遗传学, 基因编辑, CRISPR, 生物技术, 分子生物学]
 sources: ["Raw Sources/技术参考/2026-05-23_DNA全面解析.md"]
 last_updated: 2026-05-23
+subject: "870"
 ---
 
 # DNA全面解析

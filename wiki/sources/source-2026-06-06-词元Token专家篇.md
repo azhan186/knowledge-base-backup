@@ -1,6 +1,7 @@
 ---
 title: "词元Token专家篇"
 type: source
+subject: "520 计算机科学"
 tags: [图书馆, AI与科技, 词元Token, 字节级, 嵌入空间, 专家篇, 2026-06-06]
 sources:
   - "../../图书馆/Raw Sources/AI与科技/2026-06-06_词元Token专家篇.md"

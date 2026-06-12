@@ -1,6 +1,7 @@
 ---
 title: "射频识别技术资深篇（设计权衡与系统极限）"
 type: source
+subject: "510 电子与通信"
 tags: [RFID, 射频识别, 不可能三角, Q算法, NFC, 资深篇, 图书馆/AI与科技]
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术资深篇.md]
 last_updated: 2026-06-10

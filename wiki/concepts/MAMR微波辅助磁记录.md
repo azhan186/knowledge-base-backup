@@ -3,6 +3,7 @@ title: "MAMR微波辅助磁记录"
 type: concept
 tags: [MAMR, 微波辅助磁记录, HDD, 能量辅助, 东芝, 科技, 资深篇]
 last_updated: 2026-06-09
+subject: "140"
 ---
 
 # MAMR 微波辅助磁记录

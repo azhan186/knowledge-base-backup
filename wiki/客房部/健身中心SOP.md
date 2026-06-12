@@ -1,6 +1,7 @@
 ---
 title: "健身中心SOP"
 type: concept
+subject: "870 图书情报"
 tags: [万豪侯爵, 客房部, 健身中心, SOP]
 last_updated: 2024-10-12
 ---

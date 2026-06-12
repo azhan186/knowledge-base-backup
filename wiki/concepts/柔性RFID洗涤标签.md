@@ -1,6 +1,7 @@
 ---
 title: "柔性RFID洗涤标签"
 type: concept
+subject: "510 电子与通信"
 tags: [RFID, 柔性标签, 洗涤标签, PPS封装, 平台天线, 布草盘点, 酒店, 资深篇, 科技]
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术{资深,酒店应用}篇.md, 图书馆/Raw Sources/酒店与旅游业/2026-06-10_RFID在酒店布草盘点中的应用.md]
 last_updated: 2026-06-10

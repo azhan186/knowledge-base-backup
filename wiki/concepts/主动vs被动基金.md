@@ -1,6 +1,7 @@
 ---
 title: "主动vs被动基金"
 type: concept
+subject: "790 "
 tags: [基金, 主动管理, 被动管理, 指数基金, SPIVA, 入门篇, 资深篇, 科技/投资]
 sources: [图书馆/Raw Sources/投资与规划/2026-06-10_基金{入门,资深}篇.md]
 last_updated: 2026-06-10

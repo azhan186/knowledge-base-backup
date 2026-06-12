@@ -1,6 +1,7 @@
 ---
 title: "射频识别技术入门篇（RFID 综述）"
 type: source
+subject: "510 电子与通信"
 tags: [RFID, 射频识别, 物联网, 无线通信, 入门篇, 图书馆/AI与科技]
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术入门篇.md]
 last_updated: 2026-06-10

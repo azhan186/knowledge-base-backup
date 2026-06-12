@@ -5,6 +5,7 @@ tags: [万豪, JW, 宣传册, JW Garden, 品牌物料, 客房]
 sources: [../../图书馆/Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/美工设计稿/2025-01-09_酒店宣传册_JW_Garden_Final.pdf]
 last_updated: 2026-06-11
 date: 2025-01-09
+subject: "870"
 ---
 
 # 万豪酒店宣传册：JW Garden（2025-01）

@@ -1,6 +1,7 @@
 ---
 title: "洗衣入职培训（LDY_018）"
 type: source
+subject: "870 图书情报"
 tags: ["万豪侯爵", "客房部", "洗衣房", "SOP", "LSOP-LDY_018"]
 sources:
   - "../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/LDY/LDY_018_洗衣入职培训.docx"

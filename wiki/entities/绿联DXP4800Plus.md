@@ -4,6 +4,7 @@ type: entity
 tags: [NAS, 绿联, 设备]
 sources: []
 last_updated: 2026-05-12
+subject: "520"
 ---
 
 # 绿联 DXP4800 Plus NAS

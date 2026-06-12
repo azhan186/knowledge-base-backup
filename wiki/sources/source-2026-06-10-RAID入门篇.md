@@ -1,6 +1,7 @@
 ---
 title: "RAID 阵列入门篇（综述）"
 type: source
+subject: "520 计算机科学"
 tags: [图书馆, 技术与工程, RAID, 冗余阵列, 入门篇, 2026-06-10]
 sources:
   - "../../图书馆/Raw Sources/技术与工程/2026-06-10_RAID阵列入门篇.md"

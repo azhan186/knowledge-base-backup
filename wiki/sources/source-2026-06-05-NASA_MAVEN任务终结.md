@@ -4,6 +4,7 @@ type: source
 tags: [MAVEN, NASA, 火星探测, 火星大气, 航天任务]
 sources: [../Raw Sources/新闻/2026/2026-06-05_NASA_MAVEN任务终结.md]
 last_updated: 2026-06-05
+subject: "520"
 ---
 
 # NASA MAVEN任务终结

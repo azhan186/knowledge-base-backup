@@ -1,6 +1,7 @@
 ---
 title: "AI幻觉"
 type: concept
+subject: "520 计算机科学"
 tags: [图书馆, AI与科技, AI幻觉, 大语言模型, 概率预测, 事实性幻觉, 主卡, 2026-06-05]
 sources:
   - "../../图书馆/Raw Sources/AI与科技/2026-06-05_AI幻觉{入门,深入,资深,专家}篇.md"

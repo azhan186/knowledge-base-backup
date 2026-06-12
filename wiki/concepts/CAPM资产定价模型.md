@@ -1,6 +1,7 @@
 ---
 title: "CAPM资产定价模型"
 type: concept
+subject: "790 "
 tags: [基金, CAPM, 资产定价, 资本资产定价模型, Beta, 无风险利率, 专家篇, 科技/投资]
 sources: [图书馆/Raw Sources/投资与规划/2026-06-10_基金专家篇.md]
 last_updated: 2026-06-10

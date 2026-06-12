@@ -6,6 +6,7 @@ sources:
   - "../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/Floor/Floor_039_贵宾房的准备.docx"
   - "../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/Floor/Floor_023_客房贵宾客人鲜花预定安排.docx"
 last_updated: 2026-06-08
+subject: "870"
 ---
 
 # VIP 接待标准

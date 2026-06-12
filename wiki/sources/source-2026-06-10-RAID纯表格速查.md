@@ -1,6 +1,7 @@
 ---
 title: "RAID 级别纯表格速查"
 type: source
+subject: "520 计算机科学"
 tags: [图书馆, 技术与工程, RAID, 速查表, 纯表格, 2026-06-10]
 sources:
   - "../../图书馆/Raw Sources/技术与工程/2026-06-10_RAID级别纯表格速查.md"

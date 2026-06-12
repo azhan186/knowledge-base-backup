@@ -1,6 +1,7 @@
 ---
 title: "零一Boss设定方法论"
 type: synthesis
+subject: "870 图书情报"
 tags: [维度黎明, Boss, AI, 克苏鲁]
 sources: [维度黎明.md]
 last_updated: 2026-05-17

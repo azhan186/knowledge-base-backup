@@ -3,6 +3,7 @@ title: "SGLT2抑制剂"
 type: concept
 tags: [医学, 肾脏病, 心脏病, SGLT2抑制剂, 列净类, 糖尿病, 蛋白尿]
 last_updated: 2026-05-27
+subject: "320"
 ---
 
 # SGLT2抑制剂（列净类药物）

@@ -1,6 +1,7 @@
 ---
 title: "FamaFrench三因子模型"
 type: concept
+subject: "790 "
 tags: [基金, FamaFrench, 三因子, 五因子, 多因子模型, 市值, 价值, 动量, 专家篇, 科技/投资]
 sources: [图书馆/Raw Sources/投资与规划/2026-06-10_基金专家篇.md]
 last_updated: 2026-06-10

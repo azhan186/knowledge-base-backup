@@ -4,6 +4,7 @@ type: concept
 tags: [人脑潜力, 脑机接口, 10%神话, 人机融合, 类脑智能, 神经形态计算]
 sources: ["Raw Sources/2026/2026-05-24_人脑作为AI运行核心工具的可行性分析.md"]
 last_updated: 2026-05-24
+subject: "320"
 ---
 
 # 人脑潜力与AI融合

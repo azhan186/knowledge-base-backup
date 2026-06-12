@@ -3,6 +3,7 @@ title: "文献摘要索引"
 type: index
 tags: [索引, 文献摘要, 知识库]
 last_updated: 2026-06-10
+subject: "520"
 ---
 
 # 文献摘要索引

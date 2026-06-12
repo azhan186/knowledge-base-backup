@@ -4,6 +4,7 @@ type: concept
 tags: [AI, 人工智能, Agent智能体, 大语言模型, 自主决策, 工具调用, 向量数据库, 微调]
 sources: [2026-05-27_AI-Agent百科.md]
 last_updated: 2026-05-27
+subject: "520"
 ---
 
 # AI-Agent（人工智能智能体）

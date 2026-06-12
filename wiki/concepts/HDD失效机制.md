@@ -3,6 +3,7 @@ title: "HDD失效机制"
 type: concept
 tags: [HDD, 机械硬盘, 失效机制, 故障分析, 可靠性, 头盘界面, 比特腐烂, 润滑剂, NRRO, 锡须, 科技, 专家篇]
 last_updated: 2026-06-10
+subject: "520"
 ---
 
 # HDD 失效机制

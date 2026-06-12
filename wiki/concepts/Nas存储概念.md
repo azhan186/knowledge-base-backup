@@ -1,6 +1,7 @@
 ---
 title: "NAS 存储概念"
 type: concept
+subject: "870 图书情报"
 tags: [NAS, 存储, 绿联]
 sources: []
 last_updated: 2026-05-12

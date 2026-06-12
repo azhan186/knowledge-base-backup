@@ -1,6 +1,7 @@
 ---
 title: "OpenAI 提交 IPO 申请估值 1 万亿美元"
 type: source
+subject: "860 新闻传播"
 tags: [财经, OpenAI, IPO, 人工智能, ChatGPT, AI IPO元年, 2026-06-10]
 sources:
   - "../../新闻/Raw Sources/2026/财经/2026-06-10_OpenAI提交IPO申请估值1万亿美元.md"

@@ -5,6 +5,7 @@ tags: [财经, AI, Token, 算力, 无锡, AI应用]
 sources: [../../新闻/Raw Sources/2026/财经/2026-06-02_Token超市来了.md]
 last_updated: 2026-06-11
 date: 2026-06-02
+subject: "790"
 ---
 
 # Token 超市来了

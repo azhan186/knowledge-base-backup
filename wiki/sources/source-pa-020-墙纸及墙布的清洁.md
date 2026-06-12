@@ -1,6 +1,7 @@
 ---
 title: "墙纸及墙布的清洁（PA_020）"
 type: source
+subject: "870 图书情报"
 tags: ["万豪侯爵", "客房部", "公共区域", "SOP", "LSOP-PA_020"]
 sources:
   - "../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/PA/PA_020_墙纸及墙布的清洁.docx"

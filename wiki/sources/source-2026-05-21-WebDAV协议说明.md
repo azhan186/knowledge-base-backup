@@ -1,6 +1,7 @@
 ---
 title: "WebDAV 协议说明"
 type: source
+subject: "870 图书情报"
 tags: [WebDAV, HTTP, 远程文件管理, NAS, Nextcloud, Synology, 协作]
 sources: [../../图书馆/Raw Sources/技术参考/其他技术/2026-05-21_WebDAV协议说明.md]
 last_updated: 2026-06-11

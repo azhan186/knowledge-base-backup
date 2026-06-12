@@ -3,6 +3,7 @@ title: "EUV光刻机"
 type: concept
 tags: [光刻机, 半导体设备, EUV, 极紫外]
 last_updated: 2026-05-27
+subject: "520"
 ---
 
 # EUV光刻机

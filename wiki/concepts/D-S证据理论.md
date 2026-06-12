@@ -3,6 +3,7 @@ title: "D-S证据理论"
 type: concept
 tags: [D-S证据理论, Dempster-Shafer, 冲突系数K, 信任度, 信息融合, Zadeh反例, AI与科技]
 last_updated: 2026-06-10
+subject: "520"
 ---
 
 # D-S 证据理论

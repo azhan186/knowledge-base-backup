@@ -1,6 +1,7 @@
 ---
 title: "RAID"
 type: concept
+subject: "520 计算机科学"
 tags: [图书馆, 技术与工程, RAID, 冗余阵列, 独立磁盘, 综述, 主卡, 2026-06-10]
 sources:
   - "../../图书馆/Raw Sources/技术与工程/2026-06-10_RAID阵列{入门,深入,资深,专家}篇.md"

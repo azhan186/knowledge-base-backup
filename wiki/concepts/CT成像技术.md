@@ -4,6 +4,7 @@ type: concept
 tags: [医学影像, CT, X射线, 断层成像, 计算机断层]
 sources: ["Raw Sources/技术参考/2026-05-23_CT计算机断层成像原理.md", "Wiki/sources/source-CT计算机断层成像原理.md"]
 last_updated: 2026-05-23
+subject: "870"
 ---
 
 # CT成像技术

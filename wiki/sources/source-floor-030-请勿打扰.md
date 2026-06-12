@@ -1,6 +1,7 @@
 ---
 title: "请勿打扰（Floor_030）"
 type: source
+subject: "870 图书情报"
 tags: ["万豪侯爵", "客房部", "楼层", "SOP", "LSOP-Floor_030", "楼层"]
 sources:
   - "../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/Floor/Floor_030_请勿打扰.docx"

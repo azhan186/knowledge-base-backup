@@ -3,6 +3,7 @@ title: "SMR叠瓦式磁记录"
 type: concept
 tags: [SMR, 叠瓦式磁记录, HDD, 磁记录, CMR, 科技, 资深篇]
 last_updated: 2026-06-09
+subject: "910"
 ---
 
 # SMR 叠瓦式磁记录

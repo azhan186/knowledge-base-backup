@@ -3,6 +3,7 @@ title: "HAMR热辅助磁记录"
 type: concept
 tags: [HAMR, 热辅助磁记录, HDD, 能量辅助, 超顺磁, 居里温度, 科技, 资深篇]
 last_updated: 2026-06-09
+subject: "140"
 ---
 
 # HAMR 热辅助磁记录

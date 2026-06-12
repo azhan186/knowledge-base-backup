@@ -1,6 +1,7 @@
 ---
 title: "RAID 阵列专家篇"
 type: source
+subject: "520 计算机科学"
 tags: [图书馆, 技术与工程, RAID, RS码, MTTDL, FTL, ZFS, Ceph, 专家篇, 2026-06-10]
 sources:
   - "../../图书馆/Raw Sources/技术与工程/2026-06-10_RAID阵列专家篇.md"

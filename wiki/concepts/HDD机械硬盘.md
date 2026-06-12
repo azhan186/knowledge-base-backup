@@ -3,6 +3,7 @@ title: "HDD机械硬盘"
 type: concept
 tags: [HDD, 机械硬盘, 存储设备, 磁性存储, 硬件基础, 寻道时间, 旋转等待, PMR, SMR, HAMR, MAMR, 伺服控制, PRML, 维特比检测, LDPC, TFC, 热浮高, 主动抗振, 科技]
 last_updated: 2026-06-09
+subject: "520"
 ---
 
 # HDD 机械硬盘

@@ -5,6 +5,7 @@ tags: [Cron, 定时任务, 调度, 自动化, 系统运维, crontab]
 sources: [../../图书馆/Raw Sources/AI与科技/AI基础/2026-05-30_Cron定时任务核心定义.md]
 last_updated: 2026-06-11
 date: 2026-05-30
+subject: "520"
 ---
 
 # Cron 定时任务核心定义

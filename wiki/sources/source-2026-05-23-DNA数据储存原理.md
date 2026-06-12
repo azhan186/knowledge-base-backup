@@ -4,6 +4,7 @@ type: source
 tags: [DNA储存, 数据存储, 基因测序, 基因合成, 信息密度]
 sources: ["Raw Sources/技术参考/2026-05-23_DNA数据储存原理.md"]
 last_updated: 2026-05-23
+subject: "870"
 ---
 
 # DNA数据储存原理

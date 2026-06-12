@@ -5,6 +5,7 @@ tags: [MBTI, 心理学, 人格类型, 性格分类, 荣格, 认知功能]
 sources: [../../图书馆/Raw Sources/人格与心理学/MBTI/2026-05-14_MBTI十六型人格详解.md]
 last_updated: 2026-06-11
 date: 2026-05-14
+subject: "720"
 ---
 
 # MBTI 十六型人格详解

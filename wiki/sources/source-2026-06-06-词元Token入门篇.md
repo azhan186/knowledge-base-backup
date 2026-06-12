@@ -1,6 +1,7 @@
 ---
 title: "词元Token入门篇"
 type: source
+subject: "520 计算机科学"
 tags: [图书馆, AI与科技, 词元Token, LLM, 入门篇, 2026-06-06]
 sources:
   - "../../图书馆/Raw Sources/AI与科技/2026-06-06_词元Token入门篇.md"

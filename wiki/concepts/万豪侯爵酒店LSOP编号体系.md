@@ -1,6 +1,7 @@
 ---
 title: "万豪侯爵酒店 LSOP 编号体系"
 type: concept
+subject: "870 图书情报"
 tags: [万豪侯爵, 客房部, SOP, 编号体系, LSOP]
 sources:
   - "../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/"

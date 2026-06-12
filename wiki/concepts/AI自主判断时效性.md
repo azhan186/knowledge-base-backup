@@ -1,6 +1,7 @@
 ---
 title: "AI自主判断时效性"
 type: concept
+subject: "870 图书情报"
 tags: [时效性, AI系统, 自主判断, 工具调用, 工作流]
 last_updated: 2026-05-22
 ---

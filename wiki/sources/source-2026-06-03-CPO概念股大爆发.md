@@ -5,6 +5,7 @@ tags: [财经, CPO, 光通信, A股, 天孚通信, 联讯仪器]
 sources: [../../新闻/Raw Sources/2026/财经/2026-06-03_CPO概念股大爆发.md]
 last_updated: 2026-06-11
 date: 2026-06-03
+subject: "790"
 ---
 
 # CPO 概念股续创新高

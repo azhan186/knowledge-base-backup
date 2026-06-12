@@ -1,6 +1,7 @@
 ---
 title: "维度黎明 SAN 值体系"
 type: source
+subject: "750 文学"
 tags: [维度黎明, SAN值, 核心设定, 克苏鲁, 异化, 软数值]
 sources: [../../图书馆/Raw Sources/创意与叙事/世界观设计/2026-05-17_维度黎明_SAN值体系.md]
 last_updated: 2026-06-11

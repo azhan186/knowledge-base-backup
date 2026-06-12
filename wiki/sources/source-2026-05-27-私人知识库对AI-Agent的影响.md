@@ -5,6 +5,7 @@ tags: [AI, Agent, 知识库, 个性化, 隐私, 偏见, 长期记忆]
 sources: [../../图书馆/Raw Sources/AI与科技/AI基础/2026-05-27_私人知识库对AI-Agent的影响.md]
 last_updated: 2026-06-11
 date: 2026-05-27
+subject: "520"
 ---
 
 # 私人知识库对 AI Agent 的影响

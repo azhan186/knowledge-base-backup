@@ -4,6 +4,7 @@ type: concept
 tags: [AIvs人脑, 神经形态计算, 并行处理, 存算一体, 脉冲神经网络, 能耗效率, 类脑智能]
 sources: ["Raw Sources/2026/2026-05-24_AI与人脑谁更快对比与未来路径.md"]
 last_updated: 2026-05-24
+subject: "320"
 ---
 
 # AI与人脑处理速度对比

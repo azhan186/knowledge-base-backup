@@ -4,6 +4,7 @@ type: source
 tags: [NVIDIA, H200, Hopper, HBM3e, AI训练, 推理, GPU, AI硬件]
 sources: ["Raw Sources/技术参考/2026-05-23_NVIDIA_H200_GPU规格.md"]
 last_updated: 2026-05-23
+subject: "870"
 ---
 
 # NVIDIA H200 GPU 规格与架构

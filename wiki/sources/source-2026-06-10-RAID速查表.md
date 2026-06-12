@@ -1,6 +1,7 @@
 ---
 title: "RAID 0/1/5/6/10 的区别（速查表）"
 type: source
+subject: "520 计算机科学"
 tags: [图书馆, 技术与工程, RAID, 速查表, 对比, 2026-06-10]
 sources:
   - "../../图书馆/Raw Sources/技术与工程/2026-06-10_RAID级别对比速查表.md"

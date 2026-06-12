@@ -5,6 +5,7 @@ tags: [财经, A股, CPO, PCB, MLCC, 光通信, 创业板]
 sources: [../../新闻/Raw Sources/2026/财经/2026-06-02_A股CPO_PCB_MLCC概念爆发.md]
 last_updated: 2026-06-11
 date: 2026-06-02
+subject: "790"
 ---
 
 # A股 CPO/PCB/MLCC 概念集体爆发

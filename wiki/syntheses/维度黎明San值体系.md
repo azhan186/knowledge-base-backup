@@ -1,6 +1,7 @@
 ---
 title: "维度黎明 SAN值体系"
 type: synthesis
+subject: "750 文学"
 tags: [维度黎明, SAN值, 克苏鲁]
 sources: [维度黎明.md]
 last_updated: 2026-05-17

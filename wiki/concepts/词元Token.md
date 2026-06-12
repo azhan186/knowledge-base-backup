@@ -1,6 +1,7 @@
 ---
 title: "词元Token"
 type: concept
+subject: "520 计算机科学"
 tags: [图书馆, AI与科技, 词元Token, LLM, BPE, WordPiece, 上下文窗口, 主卡, 2026-06-06]
 sources:
   - "../../图书馆/Raw Sources/AI与科技/2026-06-06_词元Token{入门,深入,资深,专家}篇.md"

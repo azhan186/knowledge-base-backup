@@ -3,6 +3,7 @@ title: "Zadeh反例"
 type: concept
 tags: [Zadeh反例, D-S证据理论, 冲突系数, 鲁棒性, 信息融合, AI与科技]
 last_updated: 2026-06-10
+subject: "520"
 ---
 
 # Zadeh 反例

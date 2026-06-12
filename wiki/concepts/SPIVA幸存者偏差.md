@@ -1,6 +1,7 @@
 ---
 title: "SPIVA幸存者偏差"
 type: concept
+subject: "790 "
 tags: [SPIVA, 主动基金, 跑输指数, 幸存者偏差, S&P, 资深篇, 科技/投资]
 sources: [图书馆/Raw Sources/投资与规划/2026-06-10_基金资深篇.md]
 last_updated: 2026-06-10

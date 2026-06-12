@@ -4,6 +4,7 @@ type: source
 tags: [CRISPR, 基因编辑, Cas9, 基因剪刀, 向导RNA, 脱靶效应, 生物技术]
 sources: ["Raw Sources/技术参考/2026-05-23_CRISPR基因剪刀原理.md"]
 last_updated: 2026-05-23
+subject: "870"
 ---
 
 # CRISPR基因剪刀原理

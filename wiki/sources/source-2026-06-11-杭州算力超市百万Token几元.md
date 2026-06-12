@@ -5,6 +5,7 @@ tags: [新闻, 科技, 算力, AI, Token, 大模型, 杭州, 普惠算力]
 sources: []
 last_updated: 2026-06-12
 date: 2026-06-11
+subject: "860"
 ---
 
 # 杭州'算力超市'：百万 Token 仅几元，价格还在降

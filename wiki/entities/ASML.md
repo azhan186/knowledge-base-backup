@@ -3,6 +3,7 @@ title: "ASML"
 type: entity
 tags: [光刻机, 半导体设备, 荷兰, EUV]
 last_updated: 2026-05-27
+subject: "520"
 ---
 
 # ASML

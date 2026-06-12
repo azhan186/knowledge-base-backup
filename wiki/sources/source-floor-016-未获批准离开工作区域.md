@@ -1,6 +1,7 @@
 ---
 title: "未获批准离开工作区域（Floor_016）"
 type: source
+subject: "870 图书情报"
 tags: ["万豪侯爵", "客房部", "楼层", "SOP", "LSOP-Floor_016", "楼层"]
 sources:
   - "../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/Floor/Floor_016_未获批准离开工作区域.docx"

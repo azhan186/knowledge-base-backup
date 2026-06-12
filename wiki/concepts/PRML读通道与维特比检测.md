@@ -3,6 +3,7 @@ title: "PRML读通道与维特比检测"
 type: concept
 tags: [PRML, 部分响应, 维特比检测, NPML, 噪声预测, SOVA, 软输出, 读通道, HDD, 通信理论, 信号处理, 科技, 专家篇]
 last_updated: 2026-06-09
+subject: "510"
 ---
 
 # PRML 读通道与维特比检测

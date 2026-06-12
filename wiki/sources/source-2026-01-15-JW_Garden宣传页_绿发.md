@@ -5,6 +5,7 @@ tags: [万豪, JW, Garden, 宣传页, 绿发版, 客房, 餐饮]
 sources: [../../图书馆/Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/美工设计稿/2026-01-15_JW_Garden宣传页_绿发.pdf]
 last_updated: 2026-06-11
 date: 2026-01-15
+subject: "870"
 ---
 
 # 万豪 JW Garden 宣传页（2026-01 绿发版）

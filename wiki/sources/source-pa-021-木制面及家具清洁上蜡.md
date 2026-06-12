@@ -1,6 +1,7 @@
 ---
 title: "木制面及家具清洁上蜡（PA_021）"
 type: source
+subject: "870 图书情报"
 tags: ["万豪侯爵", "客房部", "公共区域", "SOP", "LSOP-PA_021"]
 sources:
   - "../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/PA/PA_021_木制面及家具清洁上蜡.docx"

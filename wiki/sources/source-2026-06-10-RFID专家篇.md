@@ -1,6 +1,7 @@
 ---
 title: "射频识别技术专家篇（信息物理系统的元命题）"
 type: source
+subject: "510 电子与通信"
 tags: [RFID, 射频识别, 元命题, PUF, 路径依赖, 计算式标签, 专家篇, 图书馆/AI与科技]
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术专家篇.md]
 last_updated: 2026-06-10

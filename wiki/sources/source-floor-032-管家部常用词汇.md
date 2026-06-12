@@ -1,6 +1,7 @@
 ---
 title: "管家部常用词汇（Floor_032）"
 type: source
+subject: "870 图书情报"
 tags: ["万豪侯爵", "客房部", "楼层", "SOP", "LSOP-Floor_032", "楼层"]
 sources:
   - "../Raw Sources/酒店与旅游业/酒店管理/万豪集团/上海万豪侯爵酒店资料/客房部/SOP/Floor/Floor_032_管家部常用词汇.docx"

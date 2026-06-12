@@ -1,6 +1,7 @@
 ---
 title: "RFID射频识别"
 type: concept
+subject: "510 电子与通信"
 tags: [RFID, 射频识别, 物联网, 无线通信, 阅读器, 标签, 反向散射, EPC Gen2, 不可能三角, NFC, 物理层, 协议层, 安全, 前沿, 科技, 主卡]
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术{入门,深入,资深,专家}篇.md]
 last_updated: 2026-06-10

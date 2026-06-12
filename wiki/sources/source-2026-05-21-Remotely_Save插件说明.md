@@ -1,6 +1,7 @@
 ---
 title: "Remotely Save 插件说明"
 type: source
+subject: "870 图书情报"
 tags: [Obsidian, Remotely Save, 同步插件, S3, WebDAV, 多设备同步]
 sources: [../../图书馆/Raw Sources/技术参考/其他技术/2026-05-21_Remotely_Save插件说明.md]
 last_updated: 2026-06-11

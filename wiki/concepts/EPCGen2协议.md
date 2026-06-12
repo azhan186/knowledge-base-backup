@@ -1,6 +1,7 @@
 ---
 title: "EPCGen2协议"
 type: concept
+subject: "510 电子与通信"
 tags: [RFID, EPC, Gen2, ISO 18000-63, UHF, 协议, 盘存, 命令集, 资深篇, 科技]
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术{入门,深入,资深,专家}篇.md]
 last_updated: 2026-06-10

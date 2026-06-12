@@ -1,6 +1,7 @@
 ---
 title: "Gen2四会话层"
 type: concept
+subject: "510 电子与通信"
 tags: [RFID, EPC Gen2, 会话层, S0, S1, S2, S3, 盘存标志, 持久性, 资深篇, 科技]
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术专家篇.md]
 last_updated: 2026-06-10

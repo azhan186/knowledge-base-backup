@@ -1,6 +1,7 @@
 ---
 title: "基金净值NAV"
 type: concept
+subject: "790 "
 tags: [基金, 净值, NAV, Net Asset Value, 定价, 申购赎回, 入门篇, 科技/投资]
 sources: [图书馆/Raw Sources/投资与规划/2026-06-10_基金入门篇.md]
 last_updated: 2026-06-10

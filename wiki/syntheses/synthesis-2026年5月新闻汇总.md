@@ -1,6 +1,7 @@
 ---
 title: "2026年5月新闻"
 type: synthesis
+subject: "860 新闻传播"
 tags: [新闻, 时政, 财经, 2026, 月度总结]
 last_updated: 2026-06-02
 ---

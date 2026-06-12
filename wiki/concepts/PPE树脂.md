@@ -7,6 +7,7 @@ sources:
 related_sources:
  - "../sources/source-2026-06-09-pcb-ppe-supply"
 last_updated: 2026-06-09
+subject: "180"
 ---
 
 # PPE 树脂（聚苯醚树脂）

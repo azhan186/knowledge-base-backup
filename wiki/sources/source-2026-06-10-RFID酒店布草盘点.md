@@ -1,6 +1,7 @@
 ---
 title: "RFID 在酒店布草盘点中的应用"
 type: source
+subject: "510 电子与通信"
 tags: [RFID, 酒店, 布草, 洗涤, 资产管理, RSSI, 数字化, 应用案例, 图书馆/酒店与旅游业]
 sources: [图书馆/Raw Sources/酒店与旅游业/2026-06-10_RFID在酒店布草盘点中的应用.md]
 last_updated: 2026-06-10

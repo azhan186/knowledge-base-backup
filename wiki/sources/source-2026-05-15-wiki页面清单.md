@@ -1,6 +1,7 @@
 ---
 title: "知识库导航 MOC"
 type: source
+subject: "870 图书情报"
 tags: [知识库, 导航, MOC]
 sources: []
 last_updated: 2026-05-15
