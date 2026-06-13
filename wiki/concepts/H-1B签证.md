@@ -5,7 +5,7 @@ tags: [H-1B, 签证, 美国, 特朗普, 科技人才, 印度外包, FAANG, 2026-
 sources:
  - "../../新闻/Raw Sources/2026/国际/2026-06-09_美法官裁定特朗普H-1B签证政策违法.md"
 related_sources:
- - "../sources/source-2026-06-09-h1b-visa-ruling"
+ - "../sources/source-2026-06-09-H-1B签证裁决"
 last_updated: 2026-06-09
 subject: "810"
 ---
@@ -104,7 +104,7 @@ H-1B 政策变化
 
 ## 六、关联资料
 
-- [[../sources/source-2026-06-09-h1b-visa-ruling|H-1B 签证政策违法裁决（2026-06-08）]]
+- [[../sources/source-2026-06-09-H-1B签证裁决|H-1B 签证政策违法裁决（2026-06-08）]]
 
 ---
 
@@ -132,3 +132,12 @@ H-1B 政策变化
 
 *创建于 2026-06-09*
 *最后更新：2026-06-09*
+
+## 🔗 链接网络
+
+### 📥 被引用（1）
+
+- **源资料**（1）：
+  - [[source-2026-06-09-H-1B签证裁决]]
+
+<!-- backlinks-auto: 由 add-backlinks.py 自动生成 -->

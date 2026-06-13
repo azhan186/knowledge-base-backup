@@ -41,3 +41,16 @@ last_updated: 2026-05-12
 ## 关联页面
 
 - [绿联DXP4800Plus.md](绿联DXP4800Plus.md)
+
+## 🔗 链接网络
+
+### 📥 被引用（3）
+
+- **源资料**（2）：
+  - [[source-2026-05-23-NVIDIA_H200_GPU规格]]
+  - [[source-2026-05-23-DNA数据储存原理]]
+
+- **综合笔记**（1）：
+  - [[知识库导航]]
+
+<!-- backlinks-auto: 由 add-backlinks.py 自动生成 -->
