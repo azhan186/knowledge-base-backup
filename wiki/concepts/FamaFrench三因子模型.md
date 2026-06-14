@@ -6,6 +6,7 @@ tags: [基金, FamaFrench, 三因子, 五因子, 多因子模型, 市值, 价值
 sources: [图书馆/Raw Sources/投资与规划/2026-06-10_基金专家篇.md]
 last_updated: 2026-06-10
 ---
+L1-经济学/L2-经济学类/L3-FamaFrench三因子模型/L4-FamaFrench三因子模型
 
 # Fama-French 三因子模型
 
@@ -123,7 +124,7 @@ E(R_i) = R_f + β_M × MKT + β_S × SMB + β_V × HML + α
 ### 📥 被引用（4）
 
 - **源资料**（1）：
-  - [[source-2026-06-10-基金专家篇]]
+  - [[sources/经济学/经济学类/基金/source-2026-06-10-基金专家篇]]
 
 - **相关概念**（3）：
   - [[CAPM资产定价模型]]

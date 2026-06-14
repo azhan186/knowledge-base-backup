@@ -6,6 +6,7 @@ sources: [2026-05-27_AI-Agent百科.md]
 last_updated: 2026-05-27
 subject: "520"
 ---
+L1-交叉学/L2-智能科学与技术/L3-AI助手/L4-AI助手
 
 # AI-Agent（人工智能智能体）
 
@@ -89,6 +90,6 @@ subject: "520"
 ### 📥 被引用（1）
 
 - **源资料**（1）：
-  - [[source-2026-06-06-词元Token四层综合]]
+  - [[sources/交叉学/智能科学与技术/人工智能 AI/source-2026-06-06-词元Token四层综合]]
 
 <!-- backlinks-auto: 由 add-backlinks.py 自动生成 -->

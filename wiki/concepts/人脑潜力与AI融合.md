@@ -6,6 +6,7 @@ sources: ["Raw Sources/2026/2026-05-24_人脑作为AI运行核心工具的可行
 last_updated: 2026-05-24
 subject: "320"
 ---
+L1-医学/L2-临床医学/L3-人脑潜力与AI融合/L4-人脑潜力与AI融合
 
 # 人脑潜力与AI融合
 
@@ -52,6 +53,6 @@ subject: "320"
 ### 📥 被引用（1）
 
 - **源资料**（1）：
-  - [[source-2026-05-24-脑机接口全面解析]]
+  - [[sources/医学/临床医学/脑机接口/source-2026-05-24-脑机接口全面解析]]
 
 <!-- backlinks-auto: 由 add-backlinks.py 自动生成 -->

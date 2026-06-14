@@ -6,6 +6,7 @@ tags: [RFID, Aloha, 时隙, 36.8%, 信道利用率, 理论极限, 协议, 资深
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术资深篇.md]
 last_updated: 2026-06-10
 ---
+L1-交叉学/L2-集成电路科学与工程/L3-时隙Aloha极限/L4-时隙Aloha极限
 
 # 时隙 Aloha 极限
 

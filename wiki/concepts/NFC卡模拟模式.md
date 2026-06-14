@@ -6,6 +6,7 @@ tags: [NFC, 卡模拟, Card Emulation, 安全元件, 手机变标签, 13.56MHz, 
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术资深篇.md]
 last_updated: 2026-06-10
 ---
+L1-交叉学/L2-集成电路科学与工程/L3-NFC卡模拟模式/L4-NFC卡模拟模式
 
 # NFC 卡模拟模式
 
@@ -77,8 +78,8 @@ last_updated: 2026-06-10
 ### 📥 被引用（4）
 
 - **源资料**（2）：
-  - [[source-2026-06-10-RFID入门篇]]
-  - [[source-2026-06-10-RFID资深篇]]
+  - [[sources/交叉学/遥感科技与技术/RFID/source-2026-06-10-RFID入门篇]]
+  - [[sources/交叉学/遥感科技与技术/RFID/source-2026-06-10-RFID资深篇]]
 
 - **相关概念**（2）：
   - [[RFID射频识别]]

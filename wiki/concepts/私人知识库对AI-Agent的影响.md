@@ -6,6 +6,7 @@ sources: [2026-05-27_私人知识库对AI-Agent的影响.md, 2026-05-27_保障�
 last_updated: 2026-05-27
 subject: "910"
 ---
+L1-理学/L2-统计学类/L3-私人知识库对AI-Agent的影响/L4-私人知识库对AI-Agent的影响
 
 # 私人知识库对AI-Agent的影响
 
@@ -105,10 +106,10 @@ subject: "910"
 ### 📥 被引用（5）
 
 - **源资料**（5）：
-  - [[source-2026-05-12-LLM_Wiki_Karpathy方法论]]
-  - [[source-2026-05-21-AI流程遵守度优化方法论]]
-  - [[source-2026-05-27-AI-Agent百科]]
-  - [[source-2026-05-27-保障基础问题正确判断的方法]]
-  - [[source-2026-05-27-基础常识优先规则]]
+  - [[sources/管理学/信息资源管理/知识库规范/source-2026-05-12-LLM_Wiki_Karpathy方法论]]
+  - [[sources/交叉学/智能科学与技术/人工智能 AI/source-2026-05-21-AI流程遵守度优化方法论]]
+  - [[sources/交叉学/智能科学与技术/人工智能 AI/source-2026-05-27-AI-Agent百科]]
+  - [[sources/交叉学/智能科学与技术/人工智能 AI/source-2026-05-27-保障基础问题正确判断的方法]]
+  - [[sources/交叉学/智能科学与技术/人工智能 AI/source-2026-05-27-基础常识优先规则]]
 
 <!-- backlinks-auto: 由 add-backlinks.py 自动生成 -->

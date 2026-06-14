@@ -6,6 +6,7 @@ tags: [维度黎明, SAN值, 克苏鲁]
 sources: [维度黎明.md]
 last_updated: 2026-05-17
 ---
+L1-文学/L2-文学类/L3-维度黎明San值体系/L4-维度黎明San值体系
 
 # 维度黎明 SAN值体系
 

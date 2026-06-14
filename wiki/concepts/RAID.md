@@ -7,6 +7,7 @@ sources:
   - "../../图书馆/Raw Sources/技术与工程/2026-06-10_RAID阵列{入门,深入,资深,专家}篇.md"
 last_updated: 2026-06-10
 ---
+L1-交叉学/L2-智能科学与技术/L3-RAID/L4-RAID
 
 # RAID
 
@@ -52,35 +53,35 @@ last_updated: 2026-06-10
 
 ## 文献摘要
 
-- [[source-2026-06-10-RAID入门篇]] — 入门篇
-- [[source-2026-06-10-RAID深入篇]] — 深入篇
-- [[source-2026-06-10-RAID资深篇]] — 资深篇
-- [[source-2026-06-10-RAID专家篇]] — 专家篇
-- [[source-2026-06-10-RAID速查表]] — 速查表
-- [[source-2026-06-10-RAID纯表格速查]] — 纯表格速查
+- [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID入门篇]] — 入门篇
+- [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID深入篇]] — 深入篇
+- [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID资深篇]] — 资深篇
+- [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID专家篇]] — 专家篇
+- [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID速查表]] — 速查表
+- [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID纯表格速查]] — 纯表格速查
 
 ## 🔗 链接网络
 
 ### 📥 被引用（7）
 
 - **源资料**（7）：
-  - [[source-2026-06-10-RAID专家篇]]
-  - [[source-2026-06-10-RAID入门篇]]
-  - [[source-2026-06-10-RAID深入篇]]
-  - [[source-2026-06-10-RAID纯表格速查]]
-  - [[source-2026-06-10-RAID资深篇]]
-  - [[source-2026-06-10-RAID速查表]]
-  - [[source-2026-06-10-信息存储入门篇]]
+  - [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID专家篇]]
+  - [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID入门篇]]
+  - [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID深入篇]]
+  - [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID纯表格速查]]
+  - [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID资深篇]]
+  - [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID速查表]]
+  - [[sources/交叉学/智能科学与技术/信息存储/source-2026-06-10-信息存储入门篇]]
 
 ### 📤 引用了（7）
 
 - **源资料**（6）：
-  - [[source-2026-06-10-RAID专家篇]]
-  - [[source-2026-06-10-RAID入门篇]]
-  - [[source-2026-06-10-RAID深入篇]]
-  - [[source-2026-06-10-RAID纯表格速查]]
-  - [[source-2026-06-10-RAID资深篇]]
-  - [[source-2026-06-10-RAID速查表]]
+  - [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID专家篇]]
+  - [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID入门篇]]
+  - [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID深入篇]]
+  - [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID纯表格速查]]
+  - [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID资深篇]]
+  - [[sources/交叉学/智能科学与技术/RAID/source-2026-06-10-RAID速查表]]
 
 - **相关概念**（1）：
   - [[信息存储]]

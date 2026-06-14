@@ -6,6 +6,7 @@ sources: ["Raw Sources/2026/2026-05-24_AI与人脑谁更快对比与未来路径
 last_updated: 2026-05-24
 subject: "320"
 ---
+L1-医学/L2-临床医学/L3-AI与人脑处理速度对比/L4-AI与人脑处理速度对比
 
 # AI与人脑处理速度对比
 
@@ -56,7 +57,7 @@ subject: "320"
 ### 📥 被引用（2）
 
 - **源资料**（2）：
-  - [[source-2026-05-24-AI与人脑谁更快对比与未来路径]]
-  - [[source-2026-06-06-词元Token四层综合]]
+  - [[sources/交叉学/智能科学与技术/人工智能 AI/source-2026-05-24-AI与人脑谁更快对比与未来路径]]
+  - [[sources/交叉学/智能科学与技术/人工智能 AI/source-2026-06-06-词元Token四层综合]]
 
 <!-- backlinks-auto: 由 add-backlinks.py 自动生成 -->

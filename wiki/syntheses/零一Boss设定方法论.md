@@ -6,6 +6,7 @@ tags: [维度黎明, Boss, AI, 克苏鲁]
 sources: [维度黎明.md]
 last_updated: 2026-05-17
 ---
+L1-管理学/L2-信息资源管理/L3-零一Boss设定方法论/L4-零一Boss设定方法论
 
 # 零一Boss设定方法论
 

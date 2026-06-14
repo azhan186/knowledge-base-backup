@@ -6,6 +6,7 @@ tags: [知识管理, 方法论, Karpathy]
 sources: [Raw Sources/LLM_Wiki_Karpathy.md]
 last_updated: 2026-05-21
 ---
+L1-管理学/L2-信息资源管理/L3-LLMWiki方法论/L4-LLMWiki方法论
 
 # LLM Wiki 方法论 - Wiki
 

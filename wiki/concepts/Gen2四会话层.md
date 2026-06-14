@@ -6,6 +6,7 @@ tags: [RFID, EPC Gen2, 会话层, S0, S1, S2, S3, 盘存标志, 持久性, 资�
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术专家篇.md]
 last_updated: 2026-06-10
 ---
+L1-交叉学/L2-集成电路科学与工程/L3-Gen2四会话层/L4-Gen2四会话层
 
 # Gen2 四会话层
 
@@ -61,8 +62,8 @@ last_updated: 2026-06-10
 ### 📥 被引用（6）
 
 - **源资料**（2）：
-  - [[source-2026-06-10-RFID专家篇]]
-  - [[source-2026-06-10-RFID酒店布草盘点]]
+  - [[sources/交叉学/遥感科技与技术/RFID/source-2026-06-10-RFID专家篇]]
+  - [[sources/交叉学/遥感科技与技术/RFID/source-2026-06-10-RFID酒店布草盘点]]
 
 - **相关概念**（4）：
   - [[EPCGen2协议]]

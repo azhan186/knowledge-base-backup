@@ -5,6 +5,7 @@ subject: "870 图书情报"
 tags: [万豪侯爵, 客房部, 楼层, SOP]
 last_updated: 2019-01-01
 ---
+L1-管理学/L2-信息资源管理/L3-楼层SOP/L4-楼层SOP
 
 # 楼层SOP
 
@@ -117,49 +118,49 @@ last_updated: 2019-01-01
 
 | 摘要链接 | 原文 | LSOP No. |
 |----------|------|----------|
-| [[source-floor-001-布草盘点]] | 布草盘点 | FLOOR_001 |
-| [[source-floor-002-楼层员工工作注意事项]] | 楼层员工工作注意事项 | FLOOR_002 |
-| [[source-floor-003-清洁的标准]] | 清洁的标准 | FLOOR_003 |
-| [[source-floor-004-失物招领]] | 失物招领 | FLOOR_004 |
-| [[source-floor-005-进入客房]] | 进入客房 | FLOOR_005 |
-| [[source-floor-006-客人要求项目]] | 客人要求项目 | FLOOR_006 |
-| [[source-floor-007-客人物品]] | 客人物品 | FLOOR_007 |
-| [[source-floor-008-室内禁止吸烟标准]] | 室内禁止吸烟标准 | FLOOR_008 |
-| [[source-floor-009-房间去除异味的程序]] | 房间去除异味的程序 | FLOOR_009 |
-| [[source-floor-010-允许进入客人房间]] | 允许进入客人房间 | FLOOR_010 |
-| [[source-floor-011-赠物小费]] | 赠物小费 | FLOOR_011 |
-| [[source-floor-012-擦鞋服务]] | 擦鞋服务 | FLOOR_012 |
-| [[source-floor-013-客房服务员关门打扫房间的标准]] | 客房服务员关门打扫房间的标准 | FLOOR_013 |
-| [[source-floor-014-如何处理房间有类似摄像头之类设备的方法]] | 如何处理房间有类似摄像头之类设备的方法 | FLOOR_014 |
-| [[source-floor-015-钥匙管理程序]] | 钥匙管理程序 | FLOOR_015 |
-| [[source-floor-016-未获批准离开工作区域]] | 未获批准离开工作区域 | FLOOR_016 |
-| [[source-floor-017-虫害臭虫的处理–-艺康]] | 虫害臭虫的处理–-艺康 | FLOOR_017 |
-| [[source-floor-018-处理客人洗衣]] | 处理客人洗衣 | FLOOR_018 |
-| [[source-floor-019-清洁楼层公共区域]] | 清洁楼层公共区域 | FLOOR_019 |
-| [[source-floor-020-使用吸尘器]] | 使用吸尘器 | FLOOR_020 |
-| [[source-floor-021-清理送餐服务托盘]] | 清理送餐服务托盘 | FLOOR_021 |
-| [[source-floor-022-使用婴儿床]] | 使用婴儿床 | FLOOR_022 |
-| [[source-floor-023-客房贵宾客人鲜花预定安排]] | 客房贵宾客人鲜花预定安排 | FLOOR_023 |
-| [[source-floor-024-处理客房垃圾]] | 处理客房垃圾 | FLOOR_024 |
-| [[source-floor-025-上午下午差异房报告]] | 上午下午差异房报告 | FLOOR_025 |
-| [[source-floor-026-房间清洁]] | 房间清洁 | FLOOR_026 |
-| [[source-floor-027-铺床]] | 铺床 | FLOOR_027 |
-| [[source-floor-028-浴室清洁]] | 浴室清洁 | FLOOR_028 |
-| [[source-floor-029-优先打扫]] | 优先打扫 | FLOOR_029 |
-| [[source-floor-030-请勿打扰]] | 请勿打扰 | FLOOR_030 |
-| [[source-floor-031-做夜床服务]] | 做夜床服务 | FLOOR_031 |
-| [[source-floor-032-管家部常用词汇]] | 管家部常用词汇 | FLOOR_032 |
-| [[source-floor-033-损坏客人物品]] | 损坏客人物品 | FLOOR_033 |
-| [[source-floor-035-遗失和损坏]] | 遗失和损坏 | FLOOR_035 |
-| [[source-floor-036-加床标准]] | 加床标准 | FLOOR_036 |
-| [[source-floor-037-迷你吧管理]] | 迷你吧管理 | FLOOR_037 |
-| [[source-floor-038-参观房]] | 参观房 | FLOOR_038 |
-| [[source-floor-039-贵宾房的准备]] | 贵宾房的准备 | FLOOR_039 |
-| [[source-floor-040-客房房量计算标准]] | 客房房量计算标准 | FLOOR_040 |
-| [[source-floor-041-客房洗浴用品瓶子清洁程序]] | 客房洗浴用品瓶子清洁程序 | FLOOR_041 |
-| [[source-floor-042-客房瓶装沐浴用品的补充程序]] | 客房瓶装沐浴用品的补充程序 | FLOOR_042 |
-| [[source-floor-043-OOO房间程序]] | OOO房间程序 | FLOOR_043 |
-| [[source-floor-044-客房服务员自放房资格政策]] | 客房服务员自放房资格政策 | FLOOR_044 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-001-布草盘点]] | 布草盘点 | FLOOR_001 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-002-楼层员工工作注意事项]] | 楼层员工工作注意事项 | FLOOR_002 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-003-清洁的标准]] | 清洁的标准 | FLOOR_003 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-004-失物招领]] | 失物招领 | FLOOR_004 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-005-进入客房]] | 进入客房 | FLOOR_005 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-006-客人要求项目]] | 客人要求项目 | FLOOR_006 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-007-客人物品]] | 客人物品 | FLOOR_007 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-008-室内禁止吸烟标准]] | 室内禁止吸烟标准 | FLOOR_008 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-009-房间去除异味的程序]] | 房间去除异味的程序 | FLOOR_009 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-010-允许进入客人房间]] | 允许进入客人房间 | FLOOR_010 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-011-赠物小费]] | 赠物小费 | FLOOR_011 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-012-擦鞋服务]] | 擦鞋服务 | FLOOR_012 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-013-客房服务员关门打扫房间的标准]] | 客房服务员关门打扫房间的标准 | FLOOR_013 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-014-如何处理房间有类似摄像头之类设备的方法]] | 如何处理房间有类似摄像头之类设备的方法 | FLOOR_014 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-015-钥匙管理程序]] | 钥匙管理程序 | FLOOR_015 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-016-未获批准离开工作区域]] | 未获批准离开工作区域 | FLOOR_016 |
+| [[source-floor-017-虫害臭虫的处理–-艺康/source-floor-017-虫害臭虫的处理–-艺康]] | 虫害臭虫的处理–-艺康 | FLOOR_017 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-018-处理客人洗衣]] | 处理客人洗衣 | FLOOR_018 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-019-清洁楼层公共区域]] | 清洁楼层公共区域 | FLOOR_019 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-020-使用吸尘器]] | 使用吸尘器 | FLOOR_020 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-021-清理送餐服务托盘]] | 清理送餐服务托盘 | FLOOR_021 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-022-使用婴儿床]] | 使用婴儿床 | FLOOR_022 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-023-客房贵宾客人鲜花预定安排]] | 客房贵宾客人鲜花预定安排 | FLOOR_023 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-024-处理客房垃圾]] | 处理客房垃圾 | FLOOR_024 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-025-上午下午差异房报告]] | 上午下午差异房报告 | FLOOR_025 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-026-房间清洁]] | 房间清洁 | FLOOR_026 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-027-铺床]] | 铺床 | FLOOR_027 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-028-浴室清洁]] | 浴室清洁 | FLOOR_028 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-029-优先打扫]] | 优先打扫 | FLOOR_029 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-030-请勿打扰]] | 请勿打扰 | FLOOR_030 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-031-做夜床服务]] | 做夜床服务 | FLOOR_031 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-032-管家部常用词汇]] | 管家部常用词汇 | FLOOR_032 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-033-损坏客人物品]] | 损坏客人物品 | FLOOR_033 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-035-遗失和损坏]] | 遗失和损坏 | FLOOR_035 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-036-加床标准]] | 加床标准 | FLOOR_036 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-037-迷你吧管理]] | 迷你吧管理 | FLOOR_037 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-038-参观房]] | 参观房 | FLOOR_038 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-039-贵宾房的准备]] | 贵宾房的准备 | FLOOR_039 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-040-客房房量计算标准]] | 客房房量计算标准 | FLOOR_040 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-041-客房洗浴用品瓶子清洁程序]] | 客房洗浴用品瓶子清洁程序 | FLOOR_041 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-042-客房瓶装沐浴用品的补充程序]] | 客房瓶装沐浴用品的补充程序 | FLOOR_042 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-043-OOO房间程序]] | OOO房间程序 | FLOOR_043 |
+| [[sources/管理学/信息资源管理/万豪侯爵酒店客房部SOP/source-floor-044-客房服务员自放房资格政策]] | 客房服务员自放房资格政策 | FLOOR_044 |
 
 **总计 43 份原始 docx 已编译。**
 
@@ -170,4 +171,4 @@ last_updated: 2019-01-01
 
 ## 行政人事相关
 
-- [[source-admin-001-外包员工入职注意事项]] — 外包员工入职注意事项
+- [[sources/管理学/信息资源管理/万豪侯爵酒店客房部用文件/source-admin-001-外包员工入职注意事项]] — 外包员工入职注意事项

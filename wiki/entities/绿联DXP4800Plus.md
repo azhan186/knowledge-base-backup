@@ -6,6 +6,7 @@ sources: []
 last_updated: 2026-05-12
 subject: "520"
 ---
+L1-交叉学/L2-智能科学与技术/L3-绿联DXP4800Plus/L4-绿联DXP4800Plus
 
 # 绿联 DXP4800 Plus NAS
 

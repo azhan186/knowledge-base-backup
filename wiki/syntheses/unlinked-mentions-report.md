@@ -304,7 +304,7 @@ last_updated: 2026-06-13
 
 - [[RAID]] — 2 次（concepts）
 - [[时效性]] — 2 次（concepts）
-- [[index]] — 1 次（sources）
+- [[index/index]] — 1 次（sources）
 
 ### `ASML`（3 条建议）
 
@@ -979,7 +979,7 @@ last_updated: 2026-06-13
 
 ### `LLMWiki方法论`（1 条建议）
 
-- [[index]] — 4 次（sources）
+- [[index/index]] — 4 次（sources）
 
 ### `叙事经济学`（1 条建议）
 
@@ -1027,7 +1027,7 @@ last_updated: 2026-06-13
 
 ### `2026-06-12-知识库规模化三问`（1 条建议）
 
-- [[index]] — 2 次（sources）
+- [[index/index]] — 2 次（sources）
 
 ### `2026-06-05-AI幻觉防御协议`（1 条建议）
 

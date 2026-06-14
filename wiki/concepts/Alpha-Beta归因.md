@@ -6,6 +6,7 @@ tags: [基金, Alpha, Beta, 业绩归因, 选股, 择时, 资本资产定价, �
 sources: [图书馆/Raw Sources/投资与规划/2026-06-10_基金资深篇.md]
 last_updated: 2026-06-10
 ---
+L1-经济学/L2-经济学类/L3-Alpha-Beta归因/L4-Alpha-Beta归因
 
 # Alpha-Beta 归因
 
@@ -93,7 +94,7 @@ R_fund = R_f + α + β × (R_market - R_f) + ε
 ### 📥 被引用（5）
 
 - **源资料**（1）：
-  - [[source-2026-06-10-基金资深篇]]
+  - [[sources/经济学/经济学类/基金/source-2026-06-10-基金资深篇]]
 
 - **相关概念**（4）：
   - [[CAPM资产定价模型]]

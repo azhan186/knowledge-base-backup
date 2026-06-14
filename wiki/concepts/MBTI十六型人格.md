@@ -6,6 +6,7 @@ sources: [知识库/Raw Sources/2026/2026-05-25_零和博弈.md]
 last_updated: 2026-05-25
 subject: "870"
 ---
+L1-管理学/L2-信息资源管理/L3-MBTI十六型人格/L4-MBTI十六型人格
 
 # MBTI十六型人格（16 Personality Types）
 

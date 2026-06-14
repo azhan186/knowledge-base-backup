@@ -6,6 +6,7 @@ tags: [NAS, 存储, 绿联]
 sources: []
 last_updated: 2026-05-12
 ---
+L1-管理学/L2-信息资源管理/L3-Nas存储概念/L4-Nas存储概念
 
 # NAS 存储概念
 
@@ -47,8 +48,8 @@ last_updated: 2026-05-12
 ### 📥 被引用（3）
 
 - **源资料**（2）：
-  - [[source-2026-05-23-NVIDIA_H200_GPU规格]]
-  - [[source-2026-05-23-DNA数据储存原理]]
+  - [[sources/生活/设备/我的NAS/source-2026-05-23-NVIDIA_H200_GPU规格]]
+  - [[sources/交叉学/智能科学与技术/DNA存储/source-2026-05-23-DNA数据储存原理]]
 
 - **综合笔记**（1）：
   - [[知识库导航]]

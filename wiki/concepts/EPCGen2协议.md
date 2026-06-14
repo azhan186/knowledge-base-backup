@@ -6,6 +6,7 @@ tags: [RFID, EPC, Gen2, ISO 18000-63, UHF, 协议, 盘存, 命令集, 资深篇,
 sources: [图书馆/Raw Sources/AI与科技/2026-06-10_射频识别技术{入门,深入,资深,专家}篇.md]
 last_updated: 2026-06-10
 ---
+L1-交叉学/L2-集成电路科学与工程/L3-EPCGen2协议/L4-EPCGen2协议
 
 # EPC Gen2 协议
 
@@ -67,8 +68,8 @@ last_updated: 2026-06-10
 ### 📥 被引用（7）
 
 - **源资料**（2）：
-  - [[source-2026-06-10-RFID专家篇]]
-  - [[source-2026-06-10-RFID酒店布草盘点]]
+  - [[sources/交叉学/遥感科技与技术/RFID/source-2026-06-10-RFID专家篇]]
+  - [[sources/交叉学/遥感科技与技术/RFID/source-2026-06-10-RFID酒店布草盘点]]
 
 - **相关概念**（5）：
   - [[Gen2四会话层]]
