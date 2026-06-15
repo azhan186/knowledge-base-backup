@@ -36,5 +36,5 @@ L1-医学/L2-基础医学/L3-DNA/L4-source-2026-05-23-CRISPR基因剪刀原理
 
 ## 相关链接
 
-- [[sources/医学/基础医学/DNA/source-2026-05-23-DNA全面解析]] — CRISPR是DNA编辑工具，两者紧密相关
+- [[../../../../../sources/医学/基础医学/DNA/source-2026-05-23-DNA全面解析]] — CRISPR是DNA编辑工具，两者紧密相关
 - [[进化论]] — DNA变异是进化的原材料，CRISPR可加速这一过程

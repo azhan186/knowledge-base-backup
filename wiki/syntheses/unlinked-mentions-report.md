@@ -8,7 +8,7 @@ last_updated: 2026-06-13
 # 🔗 Unlinked Mentions 隐式链接报告
 
 > 由 `find-unlinked-mentions.py` 自动生成于 2026-06-13
-> 扫 322 个 .md 文件，找出「正文提到但未用 `[[wikilink]]` 包裹」的潜在引用
+> 扫 322 个 .md 文件，找出「正文提到但未用 `` 包裹」的潜在引用
 
 ## 📊 统计
 

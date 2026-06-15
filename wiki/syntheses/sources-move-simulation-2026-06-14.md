@@ -89,7 +89,7 @@ wiki/sources/哲学/哲学/source-2026-05-14-四柱基础理论.md
 移动后必须更新：
 1. **graph.json** - 505 个 `path` 字段
 2. **index.html inline data** - 同样 505 个 path
-3. **13 个 synthesis/concept 文件**中的 [[wikilink]] 引用
+3. **13 个 synthesis/concept 文件**中的 引用
 4. **`add-backlinks.py` 报告** - backlinks 章节
 5. **`cross-disciplinary-candidates.md`** - 跨学科候选报告
 

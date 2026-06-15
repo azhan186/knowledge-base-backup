@@ -75,9 +75,9 @@ P_recv ∝ 1/d⁴
 ### 📥 被引用（8）
 
 - **源资料**（3）：
-  - [[sources/交叉学/遥感科技与技术/RFID/source-2026-06-10-RFID专家篇]]
-  - [[sources/交叉学/遥感科技与技术/RFID/source-2026-06-10-RFID资深篇]]
-  - [[sources/交叉学/遥感科技与技术/RFID/source-2026-06-10-RFID酒店布草盘点]]
+  - [[../../sources/交叉学/遥感科技与技术/RFID/source-2026-06-10-RFID专家篇]]
+  - [[../../sources/交叉学/遥感科技与技术/RFID/source-2026-06-10-RFID资深篇]]
+  - [[../../sources/交叉学/遥感科技与技术/RFID/source-2026-06-10-RFID酒店布草盘点]]
 
 - **相关概念**（5）：
   - [[32位密码暴力破解]]

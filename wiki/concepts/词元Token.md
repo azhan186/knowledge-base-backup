@@ -51,27 +51,27 @@ GPT-3 (2K) → GPT-4 (32K) → Claude (200K) → Gemini 1.5 (1M)
 
 ## 文献摘要
 
-- [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token入门篇]] — 入门篇
-- [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token深入篇]] — 深入篇
-- [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token资深篇]] — 资深篇
-- [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token专家篇]] — 专家篇
+- [[../../sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token入门篇]] — 入门篇
+- [[../../sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token深入篇]] — 深入篇
+- [[../../sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token资深篇]] — 资深篇
+- [[../../sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token专家篇]] — 专家篇
 
 ## 🔗 链接网络
 
 ### 📥 被引用（4）
 
 - **源资料**（4）：
-  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token专家篇]]
-  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token入门篇]]
-  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token深入篇]]
-  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token资深篇]]
+  - [[../../sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token专家篇]]
+  - [[../../sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token入门篇]]
+  - [[../../sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token深入篇]]
+  - [[../../sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token资深篇]]
 
 ### 📤 引用了（4）
 
 - **源资料**（4）：
-  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token专家篇]]
-  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token入门篇]]
-  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token深入篇]]
-  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token资深篇]]
+  - [[../../sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token专家篇]]
+  - [[../../sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token入门篇]]
+  - [[../../sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token深入篇]]
+  - [[../../sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token资深篇]]
 
 <!-- backlinks-auto: 由 add-backlinks.py 自动生成 -->
