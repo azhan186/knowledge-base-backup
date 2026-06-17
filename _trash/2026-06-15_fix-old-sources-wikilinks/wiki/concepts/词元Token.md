@@ -1,0 +1,77 @@
+---
+title: "词元Token"
+type: concept
+subject: "520 计算机科学"
+tags: [图书馆, AI与科技, 词元Token, LLM, BPE, WordPiece, 上下文窗口, 主卡, 2026-06-06]
+sources:
+  - "../../图书馆/Raw Sources/AI与科技/2026-06-06_词元Token{入门,深入,资深,专家}篇.md"
+last_updated: 2026-06-10
+---
+L1-交叉学/L2-智能科学与技术/L3-词元Token/L4-词元Token
+
+# 词元Token
+
+**Token**：大语言模型处理文本的**最小单位**——可以是整词、子词、字符或标点。
+
+## 一句话原理
+
+> LLM 不直接处理"字符"或"词"——而是把文本切成**词元**序列 → 每个词元映射到**高维向量** → 神经网络处理。
+
+## 关键数字
+
+- 1 汉字 ≈ 1-2 token
+- 1 英文单词 ≈ 1.3 token
+- 主流词表：32K-100K
+
+## 三大分词算法
+
+| 算法 | 用户 |
+|------|------|
+| **BPE** | GPT 系列 |
+| **WordPiece** | BERT |
+| **SentencePiece** | 多语言 |
+
+## 工程含义
+
+- **API 成本** = token × 单价
+- **上下文窗口** = 标称 ≠ 有效
+- **多语言效率**：中文比英文低
+
+## 上下文窗口演进
+
+GPT-3 (2K) → GPT-4 (32K) → Claude (200K) → Gemini 1.5 (1M)
+
+## 相关概念卡
+
+- [[BPE分词]]
+- [[上下文窗口]]
+- [[注意力机制]]
+- [[嵌入向量]]
+- [[2026-06-06_词元化与AI幻觉的关联]] — 专题
+
+## 文献摘要
+
+- [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token入门篇]] — 入门篇
+- [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token深入篇]] — 深入篇
+- [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token资深篇]] — 资深篇
+- [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token专家篇]] — 专家篇
+
+## 🔗 链接网络
+
+### 📥 被引用（4）
+
+- **源资料**（4）：
+  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token专家篇]]
+  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token入门篇]]
+  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token深入篇]]
+  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token资深篇]]
+
+### 📤 引用了（4）
+
+- **源资料**（4）：
+  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token专家篇]]
+  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token入门篇]]
+  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token深入篇]]
+  - [[sources/交叉学/智能科学与技术/词元Token/source-2026-06-06-词元Token资深篇]]
+
+<!-- backlinks-auto: 由 add-backlinks.py 自动生成 -->
