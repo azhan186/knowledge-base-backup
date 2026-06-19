@@ -2,12 +2,18 @@
 title: "文献摘要索引"
 type: index
 tags: [索引, 文献摘要, 知识库]
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 subject: "520"
 ---
 L1-交叉学/L2-智能科学与技术/L3-source-2026-06-10-以军空袭黎巴嫩/L4-index
 
 # 文献摘要索引
+
+## 2026-06-18
+
+### AI与科技
+
+- [[../../../sources/交叉学/智能科学与技术/人工智能 AI/source-2026-06-18-Agentopia长期多agent生活模拟]] — Agentopia：100 agent × 10 模拟年 × 3 世界；life reward + rejection sampling；CoSER Test +15.6%（超 Claude 4.5-Sonnet）
 
 > 按日期组织，所有文件位于 `sources/` 目录。
 
