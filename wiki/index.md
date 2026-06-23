@@ -925,6 +925,7 @@ L1-管理学/L2-信息资源管理/L3-Wiki索引/L4-全知全能书Wiki总索引
 - [[syntheses/2026-06-16-全知全能书v2.2产品方向]]
 - [[syntheses/2026-06-20-全知全能书节点详情设计]]
 - [[syntheses/2026-06-23-知识库整理全跑]] ← **本次整理笔记**
+- [[syntheses/2026-06-24-极简source审视]] ← **36 个极简 source 审视报告**
 - [[syntheses/cross-disciplinary-candidates]]
 - [[syntheses/sources-move-simulation-2026-06-14]]
 - [[syntheses/synthesis-2026-06-10-多方事件交织日]]
